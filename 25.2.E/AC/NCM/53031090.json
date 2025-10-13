@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "53031090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.fibras texteis liberianas,em bruto ou maceradas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.54,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "53031090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Em bruto",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.54,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

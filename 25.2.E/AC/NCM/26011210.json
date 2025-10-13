@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "26011210",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Minerios de ferro e seus concentrados aglomerados por processo de peletizacao, de diametro superior ou igual a 8mm e inferior ou igual a 18mm",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 19.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}
