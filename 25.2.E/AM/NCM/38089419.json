@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "38089419",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros desinfetantes para uso domissanitario direto",
+    "ALIQ_FED_NAC": 17.21,
+    "ALIQ_FED_IMP": 28.05,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "38089419",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Com propriedades acessorias odoriferas ou desodorizantes de ambientes, apresentados em embalagem tipo aerossol",
+    "ALIQ_FED_NAC": 31.68,
+    "ALIQ_FED_IMP": 42.52,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "38089419",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "A base de hipoclorito de sodio",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.29,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "87019300",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Superior a 37 kw, mas nao superior a 75 kw",
+    "ALIQ_FED_NAC": 15.33,
+    "ALIQ_FED_IMP": 24.02,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87019300",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Superior a 37 kw, mas nao superior a 75 kw",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.14,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

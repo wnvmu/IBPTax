@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85363090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios aparelhos para interrupcao seccionamento protecao derivacao ligacao ou conexao de circuitos eletricos por exemplo interruptores comutadores reles corta circuitos supressores de picos de tensao eliminadores de onda plugues fichas e tomadas de corrente",
+    "ALIQ_FED_NAC": 15.96,
+    "ALIQ_FED_IMP": 21.51,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85363090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Dispositivos de transientes de tensao, para protecao de transmissores, de potencia igual ou superior a 20kW",
+    "ALIQ_FED_NAC": 14.34,
+    "ALIQ_FED_IMP": 19.89,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

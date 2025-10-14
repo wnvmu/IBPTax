@@ -1,0 +1,74 @@
+﻿[
+  {
+    "CODIGO": "84186999",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.materiais/maqs.apars.p/prod.frio,e bombas de calor",
+    "ALIQ_FED_NAC": 15.96,
+    "ALIQ_FED_IMP": 21.12,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84186999",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Maquinas para producao de gelo em embarcacoes pesqueiras",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.61,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84186999",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Grupos de compressao, exceto para ar condicionado, ou de absorcao",
+    "ALIQ_FED_NAC": 14.34,
+    "ALIQ_FED_IMP": 19.50,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84186999",
+    "EXCECAO_FISCAL": "03",
+    "DESCRICAO": "Maquinas para producao de gelo em cubos ou escamas",
+    "ALIQ_FED_NAC": 14.34,
+    "ALIQ_FED_IMP": 19.50,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84186999",
+    "EXCECAO_FISCAL": "04",
+    "DESCRICAO": "Instalacoes frigorificas industriais, formadas por elementos nao reunidos em corpo unico nem montados sobre base comum, com camara frigorifica de capacidade superior a 30m³",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.61,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84186999",
+    "EXCECAO_FISCAL": "05",
+    "DESCRICAO": "Proprios para conservacao de sangue humano funcionando com temperatura estavel entre 2 c e 6 c",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.61,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

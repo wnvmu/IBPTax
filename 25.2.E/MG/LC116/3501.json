@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "3501",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Servicos de reportagem, assessoria de imprensa, jornalismo e relacoes publicas.",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 0.00,
+  "ALIQ_MUNICIPAL": 3.02,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

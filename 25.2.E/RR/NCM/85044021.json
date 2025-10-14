@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85044021",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Retificadores de cristal (semicondutores) (conv.eletr.)",
+    "ALIQ_FED_NAC": 15.10,
+    "ALIQ_FED_IMP": 23.47,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85044021",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Para unidades digitais de processamento de pequena capacidade",
+    "ALIQ_FED_NAC": 15.63,
+    "ALIQ_FED_IMP": 24.00,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

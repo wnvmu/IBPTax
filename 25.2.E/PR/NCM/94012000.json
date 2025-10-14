@@ -1,0 +1,62 @@
+﻿[
+  {
+    "CODIGO": "94012000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Moveis mobiliario medico cirurgico colchoes almofadas e semelhantes aparelhos de iluminacao nao especificados nem compreendidos noutros capitulos anuncios cartazes ou tabuletas e placas indicadoras luminosos e artigos semelhantes construcoes pre fabricadas assentos exceto os da posicao 94 02 mesmo transformaveis em camas e suas partes assentos do tipo utilizado em veiculos automoveis",
+    "ALIQ_FED_NAC": 15.96,
+    "ALIQ_FED_IMP": 22.26,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "94012000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De onibus",
+    "ALIQ_FED_NAC": 14.17,
+    "ALIQ_FED_IMP": 20.47,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "94012000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "De caminhoes",
+    "ALIQ_FED_NAC": 14.17,
+    "ALIQ_FED_IMP": 20.47,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "94012000",
+    "EXCECAO_FISCAL": "03",
+    "DESCRICAO": "De tratores agricolas ou de colheitadeiras",
+    "ALIQ_FED_NAC": 14.17,
+    "ALIQ_FED_IMP": 20.47,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "94012000",
+    "EXCECAO_FISCAL": "04",
+    "DESCRICAO": "De ferro ou aco, dos tipos usados em colheitadeiras",
+    "ALIQ_FED_NAC": 14.17,
+    "ALIQ_FED_IMP": 20.47,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

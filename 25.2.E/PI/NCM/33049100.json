@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "33049100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Oleos essenciais e resinoides produtos de perfumaria ou de toucador preparados e preparacoes cosmeticas Produtos de beleza ou de maquiagem preparados e preparacoes para conservacao ou cuidados da pele exceto medicamentos incluindo as preparacoes antissolares e os bronzeadores preparacoes para manicuros e pedicuros Pos incluindo os compactos",
+    "ALIQ_FED_NAC": 20.87,
+    "ALIQ_FED_IMP": 31.14,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "33049100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Talco e polvilho com ou sem perfume",
+    "ALIQ_FED_NAC": 17.74,
+    "ALIQ_FED_IMP": 28.01,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

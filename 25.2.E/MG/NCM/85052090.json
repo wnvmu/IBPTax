@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85052090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Acoplamentos,embreagens,etc.eletromagneticos",
+    "ALIQ_FED_NAC": 15.65,
+    "ALIQ_FED_IMP": 25.48,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85052090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Embreagem eletromagnetica para colheitadeiras",
+    "ALIQ_FED_NAC": 15.22,
+    "ALIQ_FED_IMP": 25.05,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

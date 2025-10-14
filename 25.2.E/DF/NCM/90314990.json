@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "90314990",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Instrumentos e aparelhos de optica de fotografia de cinematografia de medida de controle ou de precisao instrumentos e aparelhos medico cirurgicos suas partes e acessorios instrumentos aparelhos e maquinas de medida ou controle nao especificados nem compreendidos noutras posicoes do presente capitulo projetores de perfis outros",
+    "ALIQ_FED_NAC": 14.34,
+    "ALIQ_FED_IMP": 19.50,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "90314990",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Projetores de perfis",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.61,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

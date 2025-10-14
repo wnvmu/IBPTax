@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "68069090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Obras de pedra gesso cimento amianto mica ou de materias semelhantes Las de escorias de altos fornos las de outras escorias la de rocha e las minerais semelhantes vermiculita e argilas expandidas espuma de escorias e produtos minerais semelhantes expandidos misturas e obras de materias minerais para isolamento do calor e do som ou para absorcao do som exceto as das posicoes 68 11 68 12 ou do capitulo 69 outros",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 17.83,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "68069090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Obras de la de rocha e de la mineral",
+    "ALIQ_FED_NAC": 15.61,
+    "ALIQ_FED_IMP": 19.99,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

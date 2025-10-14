@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "39269040",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Plastico e suas obras outras obras de plastico e obras de outras materias das posicoes 39 01 a 39 14 artigos de laboratorio ou de farmacia",
+    "ALIQ_FED_NAC": 15.34,
+    "ALIQ_FED_IMP": 21.66,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "39269040",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Exclusivamente de laboratorio de analises clinicas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.77,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

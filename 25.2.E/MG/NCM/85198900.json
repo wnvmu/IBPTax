@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85198900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.apars.de gravacao/reprod.som",
+    "ALIQ_FED_NAC": 23.23,
+    "ALIQ_FED_IMP": 35.91,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85198900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Aparelhos cinematograficos de reproducao de som",
+    "ALIQ_FED_NAC": 20.78,
+    "ALIQ_FED_IMP": 33.46,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

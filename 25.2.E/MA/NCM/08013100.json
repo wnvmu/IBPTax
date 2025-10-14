@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "08013100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Castanha de caju,fresca ou seca,com casca",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.70,
+    "ALIQ_ESTADUAL": 23.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "08013100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Castanha de caju,com casca, seca e acondicionada em embalagem de apresentacao",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.70,
+    "ALIQ_ESTADUAL": 23.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

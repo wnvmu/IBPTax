@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "1005",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Agenciamento, corretagem ou intermediacao de bens moveis ou imoveis, nao abrangidos em outros itens ou subitens, inclusive aqueles realizados no ambito de bolsas de mercadorias e futuros, por quaisquer meios.",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 0.00,
+  "ALIQ_MUNICIPAL": 3.81,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

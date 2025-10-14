@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "57042000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Ladrilhos de area da superficie superior a 0,3 m2, mas nao superior a 1 m2",
+  "ALIQ_FED_NAC": 16.73,
+  "ALIQ_FED_IMP": 32.64,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

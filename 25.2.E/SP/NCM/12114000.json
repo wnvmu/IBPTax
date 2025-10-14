@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "12114000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Sementes e frutos oleaginosos graos sementes e frutos diversos plantas industriais ou medicinais palhas e forragens Plantas partes de plantas sementes e frutos das especies utilizadas principalmente em perfumaria medicina ou como inseticidas parasiticidas e semelhantes frescos refrigerados congelados ou secos mesmo cortados triturados ou em po Palha de dormideira ou papoula",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 16.36,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "12114000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Palha de papoula,p/util.perfum.medicina,etc., seca",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 16.36,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

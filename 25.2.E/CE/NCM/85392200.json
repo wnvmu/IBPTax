@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85392200",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros lampadas/tubos incandesc. pot<=200w,t>100v",
+    "ALIQ_FED_NAC": 17.00,
+    "ALIQ_FED_IMP": 24.57,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85392200",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Lampadas incandescentes, de tensao superior a 100V",
+    "ALIQ_FED_NAC": 18.05,
+    "ALIQ_FED_IMP": 25.62,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

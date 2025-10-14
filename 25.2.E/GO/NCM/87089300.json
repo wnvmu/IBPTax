@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "87089300",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Veiculos automoveis tratores ciclos e outros veiculos terrestres suas partes e acessorios Partes e acessorios dos veiculos automoveis das posicoes 87 01 a 87 05 embreagens e suas Partes",
+    "ALIQ_FED_NAC": 14.95,
+    "ALIQ_FED_IMP": 19.38,
+    "ALIQ_ESTADUAL": 7.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87089300",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De veiculos das posicoes 87.01, 87.02, 87.04 e 87.05",
+    "ALIQ_FED_NAC": 13.85,
+    "ALIQ_FED_IMP": 18.28,
+    "ALIQ_ESTADUAL": 7.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

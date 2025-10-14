@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "84212300",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Apars.p/filtrar oleos minerais nos motores explosao,etc",
+    "ALIQ_FED_NAC": 14.84,
+    "ALIQ_FED_IMP": 20.73,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84212300",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Filtro de oleo lubrificante, nao descartavel, equipado com elemento filtrante de papel substituivel , para uso em motores de ignicao por compressao, de potencia igual ou superior a 125HP, proprios para onibus ou caminhoes",
+    "ALIQ_FED_NAC": 14.17,
+    "ALIQ_FED_IMP": 20.06,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84212300",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Filtro de oleo lubrificante, nao descartavel, equipado com elemento filtrante de papel substituivel , para uso em motores de ignicao por compressao, com ate 2.600 rpm em potencia maxima, proprios para colheitadeiras ou tratores agricolas",
+    "ALIQ_FED_NAC": 14.17,
+    "ALIQ_FED_IMP": 20.06,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

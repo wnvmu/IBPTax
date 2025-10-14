@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "90105090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Instrumentos e aparelhos de optica de fotografia de cinematografia de medida de controle ou de precisao instrumentos e aparelhos medico cirurgicos suas partes e acessorios aparelhos e equipamento do tipo utilizado nos laboratorios fotograficos ou cinematograficos nao especificados nem compreendidos noutras posicoes do presente capitulo negatoscopios telas para projecao outros",
+    "ALIQ_FED_NAC": 21.50,
+    "ALIQ_FED_IMP": 33.26,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "90105090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Moviolas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 25.21,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85437012",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Amplificador radiofreq.p/recep.sinal microonda,lna,etc",
+    "ALIQ_FED_NAC": 16.85,
+    "ALIQ_FED_IMP": 18.85,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85437012",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De media ou de alta frequencia",
+    "ALIQ_FED_NAC": 19.85,
+    "ALIQ_FED_IMP": 21.85,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

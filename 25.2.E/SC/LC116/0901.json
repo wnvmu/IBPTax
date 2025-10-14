@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "0901",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Hospedagem de qualquer natureza em hoteis, apart-service condominiais, flat, apart-hoteis, hoteis residencia, residence-service, suite service, hotelaria maritima, moteis, pensoes e congeneres, ocupacao por temporada com fornecimento de servico o valor da alimentacao e gorjeta, quando incluido no preco da diaria, fica sujeito ao iss",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 0.00,
+  "ALIQ_MUNICIPAL": 2.84,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

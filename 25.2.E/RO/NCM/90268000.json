@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "90268000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Outs.instrumentos e apars.p/medida/controle de liq.etc.",
+  "ALIQ_FED_NAC": 19.22,
+  "ALIQ_FED_IMP": 31.14,
+  "ALIQ_ESTADUAL": 19.50,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

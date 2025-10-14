@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84189900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros partes de refrigeradores, congeladores,etc.",
+    "ALIQ_FED_NAC": 18.78,
+    "ALIQ_FED_IMP": 27.49,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84189900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Condensador frigorifico e evaporador frigorifico",
+    "ALIQ_FED_NAC": 15.34,
+    "ALIQ_FED_IMP": 24.05,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

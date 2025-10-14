@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "87088000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Veiculos automoveis tratores ciclos e outros veiculos terrestres suas partes e acessorios Partes e acessorios dos veiculos automoveis das posicoes 87 01 a 87 05 sistemas de suspensao e suas Partes incluindo os amortecedores de suspensao",
+    "ALIQ_FED_NAC": 14.34,
+    "ALIQ_FED_IMP": 20.64,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87088000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Amortecedores de suspensao de veiculos das posicoes 87.02, 87.04 exceto a subposicao 8704.10 e 87.05 e da subposicao 8701.20",
+    "ALIQ_FED_NAC": 14.17,
+    "ALIQ_FED_IMP": 20.47,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87088000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Outros amortecedores de suspensao",
+    "ALIQ_FED_NAC": 16.11,
+    "ALIQ_FED_IMP": 22.41,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

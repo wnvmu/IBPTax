@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "43022000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Cabecas,caudas,etc.curtidas/acabads.inteiras,n/reunidas",
+    "ALIQ_FED_NAC": 21.31,
+    "ALIQ_FED_IMP": 26.44,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "43022000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Cabecas, caudas, patas e outras partes, desperdicios e aparas, de coelho ou de lebre",
+    "ALIQ_FED_NAC": 15.16,
+    "ALIQ_FED_IMP": 20.29,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "43022000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Cabecas, caudas, patas e outras partes, desperdicios e aparas, de bovino, de ovino ou de caprino",
+    "ALIQ_FED_NAC": 15.16,
+    "ALIQ_FED_IMP": 20.29,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

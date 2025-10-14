@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85393210",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "De vapor de mercurio",
+    "ALIQ_FED_NAC": 18.76,
+    "ALIQ_FED_IMP": 29.09,
+    "ALIQ_ESTADUAL": 3.40,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85393210",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Lampadas mistas",
+    "ALIQ_FED_NAC": 26.98,
+    "ALIQ_FED_IMP": 37.31,
+    "ALIQ_ESTADUAL": 3.40,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

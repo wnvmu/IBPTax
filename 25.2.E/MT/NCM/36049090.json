@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "36049090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.foguetes de sinalizacao e artigos de pirotecnia",
+    "ALIQ_FED_NAC": 21.48,
+    "ALIQ_FED_IMP": 28.98,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "36049090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Foguetes e artigos semelhantes para sinalizacao",
+    "ALIQ_FED_NAC": 16.45,
+    "ALIQ_FED_IMP": 23.95,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

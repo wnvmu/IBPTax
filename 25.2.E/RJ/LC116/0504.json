@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "0504",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Inseminacao artificial, fertilizacao in vitro e congeneres.",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 0.00,
+  "ALIQ_MUNICIPAL": 2.16,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

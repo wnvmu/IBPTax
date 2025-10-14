@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "84213200",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Reatores nucleares caldeiras maquinas aparelhos e instrumentos mecanicos e suas partes centrifugadores incluindo os secadores centrifugos aparelhos para filtrar ou depurar liquidos ou gases conversores cataliticos e filtros de particulas mesmo combinados",
+    "ALIQ_FED_NAC": 15.14,
+    "ALIQ_FED_IMP": 25.33,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84213200",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "conversores cataliticos exceto para veiculos",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 23.64,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84213200",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Filtros de particulas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 23.64,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

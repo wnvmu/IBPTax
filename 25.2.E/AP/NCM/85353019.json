@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "85353019",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Outs.seccionadores/interruptores,t>1kv,corrente<=1600a",
+  "ALIQ_FED_NAC": 15.28,
+  "ALIQ_FED_IMP": 25.28,
+  "ALIQ_ESTADUAL": 18.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "73121090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.cordas e cabos,de ferro/aco,n/isol.p/uso eletr.",
+    "ALIQ_FED_NAC": 18.42,
+    "ALIQ_FED_IMP": 26.69,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "73121090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Cordoalha de aco para concreto protendido",
+    "ALIQ_FED_NAC": 15.21,
+    "ALIQ_FED_IMP": 23.48,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

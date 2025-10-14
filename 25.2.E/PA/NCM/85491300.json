@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "85491300",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios Desperdicios e residuos e sucata eletricos e eletronicos Selecionados por tipo de componente quimico e que nao contenham chumbo cadmio ou mercurio",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 21.77,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85491300",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Desperdicios residuos e sucatas contendo compostos quimicos de niquel ou de litio",
+    "ALIQ_FED_NAC": 16.22,
+    "ALIQ_FED_IMP": 24.54,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85491300",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Pilhas baterias de pilhas e acumuladores eletricos inserviveis",
+    "ALIQ_FED_NAC": 17.48,
+    "ALIQ_FED_IMP": 25.80,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

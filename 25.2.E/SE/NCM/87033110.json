@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "87033110",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Automoveis c/motor diesel,cm3<=1500,ate 6 passageiros",
+  "ALIQ_FED_NAC": 19.05,
+  "ALIQ_FED_IMP": 26.95,
+  "ALIQ_ESTADUAL": 19.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

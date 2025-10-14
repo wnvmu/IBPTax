@@ -1,0 +1,50 @@
+﻿[
+  {
+    "CODIGO": "20039000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Preparacoes de produtos horticolas fruta ou de outras partes de plantas cogumelos e trufas preparados ou conservados exceto em vinagre ou em acido acetico outros",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.77,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "20039000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outs cogumelos preparados ou conservados, cozidos exceto em agua ou vapor e congelados",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.77,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "20039000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Trufas cozidas exceto em agua ou vapor e congeladas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.77,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "20039000",
+    "EXCECAO_FISCAL": "03",
+    "DESCRICAO": "Outras trufas",
+    "ALIQ_FED_NAC": 14.67,
+    "ALIQ_FED_IMP": 20.99,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

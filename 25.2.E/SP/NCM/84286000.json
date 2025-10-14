@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84286000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Telefericos e mecanismos de tracao p/funiculares",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 16.97,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84286000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Telecadeiras e telesquis",
+    "ALIQ_FED_NAC": 14.28,
+    "ALIQ_FED_IMP": 17.80,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

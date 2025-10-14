@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "22072019",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Bebidas liquidos alcoolicos e vinagres alcool etilico nao desnaturado com um teor alcoolico em volume igual ou superior a 80 vol alcool etilico e aguardentes desnaturados com qualquer teor alcoolico outros",
+    "ALIQ_FED_NAC": 16.40,
+    "ALIQ_FED_IMP": 27.52,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22072019",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Para fins carburantes, com as especificacoes determinadas pela anP",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.57,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

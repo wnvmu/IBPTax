@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "85437039",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios Maquinas e aparelhos eletricos com funcao propria nao especificados nem compreendidos noutras posicoes do presente capitulo outros",
+    "ALIQ_FED_NAC": 17.09,
+    "ALIQ_FED_IMP": 24.91,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85437039",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Gravador reprodutor e editor de imagem e som em discos por meio magnetico optico ou optomagnetico",
+    "ALIQ_FED_NAC": 15.33,
+    "ALIQ_FED_IMP": 23.15,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85437039",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Aparelho de gravacao ou reproducao e edicao de imagem e som de televisao em disco rigido por meio magnetico optico ou optomagnetico",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 21.27,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

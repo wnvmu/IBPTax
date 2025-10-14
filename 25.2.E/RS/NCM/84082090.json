@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "84082090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Reatores nucleares caldeiras maquinas aparelhos e instrumentos mecanicos e suas partes Motores de pistao de ignicao por compressao motores diesel ou semidiesel outros",
+    "ALIQ_FED_NAC": 14.45,
+    "ALIQ_FED_IMP": 21.31,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84082090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De onibus ou caminhoes, de potencia igual ou superior a 125HP",
+    "ALIQ_FED_NAC": 14.26,
+    "ALIQ_FED_IMP": 21.12,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84082090",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "De tratores agricolas, com ate 2.600 rpm em potencia maxima",
+    "ALIQ_FED_NAC": 14.26,
+    "ALIQ_FED_IMP": 21.12,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

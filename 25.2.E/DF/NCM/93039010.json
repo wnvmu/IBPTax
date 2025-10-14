@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "93039010",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Lancadores do tipo utilizado com cartuchos dos itens 9306.21.10, 9306.21.20 ou 9306.21.30",
+  "ALIQ_FED_NAC": 24.67,
+  "ALIQ_FED_IMP": 31.49,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "87032310",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Automoveis c/motor explosao,1500<cm3<=3000, ate 6 passag",
+    "ALIQ_FED_NAC": 22.95,
+    "ALIQ_FED_IMP": 34.95,
+    "ALIQ_ESTADUAL": 22.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87032310",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De cilindrada superior a 1.500 cm³, mas nao superior a 2.000 cm³",
+    "ALIQ_FED_NAC": 18.80,
+    "ALIQ_FED_IMP": 30.80,
+    "ALIQ_ESTADUAL": 22.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

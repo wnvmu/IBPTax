@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "40139000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros camaras-de-ar de borracha",
+    "ALIQ_FED_NAC": 15.71,
+    "ALIQ_FED_IMP": 21.22,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "40139000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Dos tipos utilizados em colheitadeiras ou tratores agricolas",
+    "ALIQ_FED_NAC": 13.78,
+    "ALIQ_FED_IMP": 19.29,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

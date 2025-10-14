@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "84433111",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Maquinas que executem pelo menos duas das seguintes funcoes impressao, copia ou transmissao de telecopia (fax), capazes de ser conectadas a uma maquina automatica para processamento de dados ou a uma rede (de jato de tinta liquida, com largura de impressao inferior ou igual a 420mm)",
+  "ALIQ_FED_NAC": 16.16,
+  "ALIQ_FED_IMP": 21.13,
+  "ALIQ_ESTADUAL": 20.50,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85392190",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.lampadas/tubos incandesc.halogenos,de tungstenio",
+    "ALIQ_FED_NAC": 17.00,
+    "ALIQ_FED_IMP": 25.10,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85392190",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Lampadas dicroicas",
+    "ALIQ_FED_NAC": 18.05,
+    "ALIQ_FED_IMP": 26.15,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

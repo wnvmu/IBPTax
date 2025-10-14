@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "39191020",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Plastico e suas obras chapas folhas tiras fitas peliculas e outras formas planas autoadesivas de plastico mesmo em rolos De poli cloreto de vinila",
+    "ALIQ_FED_NAC": 20.07,
+    "ALIQ_FED_IMP": 30.32,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "39191020",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Fitas autoadesivas em rolos",
+    "ALIQ_FED_NAC": 21.99,
+    "ALIQ_FED_IMP": 32.24,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

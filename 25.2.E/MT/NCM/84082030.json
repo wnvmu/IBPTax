@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "84082030",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Motores diesel/semidiesel,p/veic.cap.87, 2500<cm3<=3500",
+    "ALIQ_FED_NAC": 15.01,
+    "ALIQ_FED_IMP": 24.58,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84082030",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De onibus ou caminhoes, de potencia igual ou superior a 125HP",
+    "ALIQ_FED_NAC": 14.71,
+    "ALIQ_FED_IMP": 24.28,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84082030",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "De tratores agricolas, com ate 2.600 rpm em potencia maxima",
+    "ALIQ_FED_NAC": 14.71,
+    "ALIQ_FED_IMP": 24.28,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

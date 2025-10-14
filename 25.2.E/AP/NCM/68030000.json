@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "68030000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Obras de pedra gesso cimento amianto mica ou de materias semelhantes ardosia natural trabalhada e obras de ardosia natural ou aglomerada",
+    "ALIQ_FED_NAC": 15.25,
+    "ALIQ_FED_IMP": 20.18,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "68030000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Ladrilhos e placas lajes para pavimentacao ou revestimento",
+    "ALIQ_FED_NAC": 13.82,
+    "ALIQ_FED_IMP": 18.75,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

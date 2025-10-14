@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85393111",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Que contenham mais de 5 mg de mercurio por cada involucro (tubo)",
+    "ALIQ_FED_NAC": 18.22,
+    "ALIQ_FED_IMP": 27.70,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85393111",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Ex 01 - De descarga em baixa pressao, de base unica, com ou sem reator eletronico incorporado, com eficiencia superior a 40 lumens/W (lampada fluorescente compacta)",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.93,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

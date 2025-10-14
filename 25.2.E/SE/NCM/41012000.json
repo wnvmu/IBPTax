@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "41012000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Couros e peles em bruto, inteiros, nao divididos, de peso unitario nao superior a 8 kg quando secos, a 10 kg quando salgados a seco e a 16 kg quando frescos, salgados a umido ou conservados de outro modo",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 19.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

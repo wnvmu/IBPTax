@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "89079000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros estruturas flutuantes",
+    "ALIQ_FED_NAC": 15.41,
+    "ALIQ_FED_IMP": 23.48,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "89079000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Balsas para transporte",
+    "ALIQ_FED_NAC": 16.03,
+    "ALIQ_FED_IMP": 24.10,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

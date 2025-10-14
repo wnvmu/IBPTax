@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "84715040",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Unid.proc.digit.muito gde.cap.etc.fob >us$100000",
+  "ALIQ_FED_NAC": 15.53,
+  "ALIQ_FED_IMP": 18.14,
+  "ALIQ_ESTADUAL": 19.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-09-20",
+  "DT_FIM_VIG": "2025-10-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

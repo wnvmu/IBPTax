@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "87042190",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.veiculos automoveis c/motor diesel,p/carga<=5t",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 20.53,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87042190",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De camionetas, furgoes, \u0093pick-ups\u0094 e semelhantes",
+    "ALIQ_FED_NAC": 14.96,
+    "ALIQ_FED_IMP": 22.04,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87042190",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Carro-forte para transporte de valores",
+    "ALIQ_FED_NAC": 15.31,
+    "ALIQ_FED_IMP": 22.39,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "70023200",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Tubos de outs.vidros,dilat.lin<=0.000005/kelv . n/trabalh",
+    "ALIQ_FED_NAC": 16.45,
+    "ALIQ_FED_IMP": 20.16,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "70023200",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De vidro optico",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 17.16,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "22071090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros alcool etilico n/desnaturado",
+    "ALIQ_FED_NAC": 5.60,
+    "ALIQ_FED_IMP": 5.60,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22071090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Para fins carburantes, com as especificacoes determinadas pela anP",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 25.44,
+    "ALIQ_ESTADUAL": 30.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22071090",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Retificado alcool neutro",
+    "ALIQ_FED_NAC": 16.69,
+    "ALIQ_FED_IMP": 28.68,
+    "ALIQ_ESTADUAL": 30.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-09-20",
+    "DT_FIM_VIG": "2025-10-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]
