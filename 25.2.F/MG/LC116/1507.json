@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "1507",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Acesso, movimentacao, atendimento e consulta a contas em geral, por qualquer meio ou processo, inclusive por telefone, fac-simile, internet e telex, acesso a terminais de atendimento, inclusive vinte e quatro horas, acesso a outro banco e a rede compartilhada, fornecimento de saldo, extrato e demais informacoes",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 0.00,
+  "ALIQ_MUNICIPAL": 4.91,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

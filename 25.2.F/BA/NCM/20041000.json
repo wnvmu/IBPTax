@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "20041000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Preparacoes de produtos horticolas fruta ou de outras partes de plantas outros produtos horticolas preparados ou conservados exceto em vinagre ou em acido acetico congelados com excecao dos produtos da posicao 20 06 Batatas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.86,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "20041000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Batatas, cozidas exceto em agua ou vapor",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.86,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "68132000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Obras de pedra gesso cimento amianto mica ou de materias semelhantes Guarnicoes de friccao por exemplo placas rolos tiras segmentos discos aneis pastilhas nao montadas para freios travoes embreagens ou qualquer outro mecanismo de friccao a base de amianto de outras substancias minerais ou de celulose mesmo combinadas com texteis ou outras materias Que contenham amianto",
+    "ALIQ_FED_NAC": 15.17,
+    "ALIQ_FED_IMP": 20.33,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "68132000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Guarnicoes para freios e disco de friccao para embreagens",
+    "ALIQ_FED_NAC": 15.96,
+    "ALIQ_FED_IMP": 21.12,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

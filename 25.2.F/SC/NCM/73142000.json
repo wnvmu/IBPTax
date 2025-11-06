@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "73142000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Obras de ferro fundido ferro ou aco Telas metalicas incluindo as telas continuas ou sem fim grades e redes de fios de ferro ou aco chapas e tiras distendidas de ferro ou aco Grades e redes soldadas nos pontos de intersecao de fios com pelo menos 3 mm na maior dimensao da secao transversal e com malhas de 100 cm ou mais de superficie",
+    "ALIQ_FED_NAC": 18.76,
+    "ALIQ_FED_IMP": 27.45,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "73142000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De aco, nao revestidas, para estruturas ou obras de concreto armado ou argamassa armada",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.14,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "22060090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Bebidas liquidos alcoolicos e vinagres outras",
+    "ALIQ_FED_NAC": 19.81,
+    "ALIQ_FED_IMP": 33.48,
+    "ALIQ_ESTADUAL": 39.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22060090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outs.bebidas fermentadas e misturas de bebidas ferments, com teor alcoolico superior a 14%",
+    "ALIQ_FED_NAC": 25.12,
+    "ALIQ_FED_IMP": 38.79,
+    "ALIQ_ESTADUAL": 39.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

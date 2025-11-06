@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "03055400",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Arenques (clupea harengus, clupea pallasii), anchovas (biqueiroes*) (engraulis spp), sardinhas (sardina pilchardus, sardinops spp, sardinella spp) (sardinha (sardina pilchardus) e sardinelas (sardinops spp, sardinella spp)*), anchoveta (espadilha*) (sprattus sprattus), cavalinhas (sardas e cavalas*) (scomber scombrus, scomber australasicus, scomber japonicus), cavalas do indico (rastrelliger spp), serras (scomberomorus spp), carapaus (trachurus s",
+  "ALIQ_FED_NAC": 13.95,
+  "ALIQ_FED_IMP": 17.27,
+  "ALIQ_ESTADUAL": 12.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

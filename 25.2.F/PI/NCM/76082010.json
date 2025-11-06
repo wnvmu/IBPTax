@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "76082010",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Sem costura, extrudados e trefilados, segundo norma astm b210, de secao circular, de liga aa 6061 (aluminium association), com limite elastico aparente de johnson (jael) superior a 3.000nm, segundo norma sae ae7, diametro externo superior ou igual a 8",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 22.50,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

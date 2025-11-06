@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "39202019",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.chapas,etc.polim.propileno,biax.orient.s/suporte",
+    "ALIQ_FED_NAC": 22.33,
+    "ALIQ_FED_IMP": 36.92,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "39202019",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Substrato de polipropileno biaxialmente orientado, recoberto em ambas as faces da folha por camadas de tinta opacificante que propiciam receber as impressoes ofsete seco, calcografica, tipografica e vernizes de protecao com cura a ultravioleta",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 28.04,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

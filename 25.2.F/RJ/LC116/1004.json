@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "1004",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Agenciamento, corretagem ou intermediacao de contratos de arrendamento mercantil leasing , de franquia franchising e de faturizacao factoring .",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 0.00,
+  "ALIQ_MUNICIPAL": 4.88,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

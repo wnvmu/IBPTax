@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "0721",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Pesquisa, perfuracao, cimentacao, mergulho, perfilagem, concretacao, testemunhagem, pescaria, estimulacao e outros servicos relacionados com a exploracao e explotacao de petroleo, gas natural e de outros recursos minerais.",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 0.00,
+  "ALIQ_MUNICIPAL": 2.40,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

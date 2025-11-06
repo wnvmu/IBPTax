@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84099959",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Reatores nucleares caldeiras maquinas aparelhos e instrumentos mecanicos e suas partes Partes reconheciveis como exclusiva ou principalmente destinadas aos motores das posicoes 84 07 ou 84 08 outros",
+    "ALIQ_FED_NAC": 15.33,
+    "ALIQ_FED_IMP": 25.57,
+    "ALIQ_ESTADUAL": 3.40,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84099959",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De motores de onibus ou caminhoes, de potencia igual ou superior a 125HP",
+    "ALIQ_FED_NAC": 14.96,
+    "ALIQ_FED_IMP": 25.20,
+    "ALIQ_ESTADUAL": 3.40,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

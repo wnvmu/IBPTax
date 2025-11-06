@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "04015021",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Creme de leite,uht,materia gorda>10%,nao concentr.n/adoc",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.18,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "04015021",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Creme de leite,uht,materia gorda>10%,nao concentr.n/adoc, acondicionado em recipiente metalico hermeticamente fechado",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.18,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

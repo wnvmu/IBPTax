@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "73089090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Obras de ferro fundido ferro ou aco construcoes e suas partes por exemplo pontes e elementos de pontes comportas torres porticos pilares colunas armacoes estruturas para telhados portas e janelas e seus caixilhos alizares e soleiras portas de correr balaustradas de ferro fundido ferro ou aco exceto as construcoes pre fabricadas da posicao 94 06 chapas barras perfis tubos e semelhantes de ferro fundido ferro ou aco proprios para construcoes outros",
+    "ALIQ_FED_NAC": 14.96,
+    "ALIQ_FED_IMP": 22.32,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "73089090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Telhas de aco",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 20.81,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

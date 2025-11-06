@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "87089200",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Silenciosos e tubos de escape p/tratores/veic. automov.",
+    "ALIQ_FED_NAC": 19.10,
+    "ALIQ_FED_IMP": 30.25,
+    "ALIQ_ESTADUAL": 22.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87089200",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De veiculos das posicoes 87.01, 87.02, 87.04 e 87.05 exceto partes",
+    "ALIQ_FED_NAC": 14.97,
+    "ALIQ_FED_IMP": 26.12,
+    "ALIQ_ESTADUAL": 22.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87089200",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Partes",
+    "ALIQ_FED_NAC": 15.34,
+    "ALIQ_FED_IMP": 26.49,
+    "ALIQ_ESTADUAL": 22.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

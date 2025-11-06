@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85076000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros acumuladores eletr. de ion de litio",
+    "ALIQ_FED_NAC": 20.53,
+    "ALIQ_FED_IMP": 33.21,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85076000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Para telefones inteligentes smartphones",
+    "ALIQ_FED_NAC": 22.58,
+    "ALIQ_FED_IMP": 35.26,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

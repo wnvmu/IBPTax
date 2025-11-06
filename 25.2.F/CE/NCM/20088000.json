@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "20088000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Morangos preparados ou conservados",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.78,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "20088000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Morangos, cozidos exceto em agua e vapor , congelados e sem adicao de acucar ou de outros edulcorantes",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.78,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

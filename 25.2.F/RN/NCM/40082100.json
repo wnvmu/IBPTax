@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "40082100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Borracha e suas obras chapas folhas tiras varetas e perfis de borracha vulcanizada nao endurecida chapas folhas e tiras",
+    "ALIQ_FED_NAC": 16.73,
+    "ALIQ_FED_IMP": 24.74,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "40082100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Remendo e manchao, com superficie recoberta de produtos autovulcanizantes a frio e protegidos por papel, plastico ou outra materia",
+    "ALIQ_FED_NAC": 15.14,
+    "ALIQ_FED_IMP": 23.15,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

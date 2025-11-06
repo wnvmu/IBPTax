@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "87036000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Outros veiculos, equipados para propulsao, simultaneamente, com um motor de pistao alternativo de ignicao por centelha (faisca*) e um motor eletrico, suscetiveis de serem carregados por conexao a uma fonte externa de energia eletrica",
+  "ALIQ_FED_NAC": 21.85,
+  "ALIQ_FED_IMP": 42.00,
+  "ALIQ_ESTADUAL": 17.50,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

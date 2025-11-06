@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "68022300",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Obras de pedra gesso cimento amianto mica ou de materias semelhantes Pedras de cantaria ou de construcao exceto de ardosia trabalhadas e obras destas pedras exceto as da posicao 68 01 cubos pastilhas e artigos semelhantes para mosaicos de pedra natural incluindo a ardosia mesmo com suporte granulos fragmentos e pos de pedra natural incluindo a ardosia corados artificialmente Granito",
+    "ALIQ_FED_NAC": 14.90,
+    "ALIQ_FED_IMP": 19.26,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "68022300",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Ladrilhos e placas lajes para pavimentacao ou revestimento",
+    "ALIQ_FED_NAC": 13.75,
+    "ALIQ_FED_IMP": 18.11,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

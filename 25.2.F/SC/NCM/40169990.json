@@ -1,0 +1,50 @@
+﻿[
+  {
+    "CODIGO": "40169990",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Borracha e suas obras outras obras de borracha vulcanizada nao endurecida outras",
+    "ALIQ_FED_NAC": 19.71,
+    "ALIQ_FED_IMP": 29.95,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "40169990",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Sapatas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 23.69,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "40169990",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Partes dos produtos das posicoes 8608, 8710 e 8713",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 23.69,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "40169990",
+    "EXCECAO_FISCAL": "03",
+    "DESCRICAO": "Tapetes proprios para onibus ou caminhoes",
+    "ALIQ_FED_NAC": 15.33,
+    "ALIQ_FED_IMP": 25.57,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

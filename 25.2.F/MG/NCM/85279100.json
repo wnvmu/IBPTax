@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85279100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros aparelhos receptores para radiodifusao, combinados com um aparelho de gravacao ou de reproducao de som",
+    "ALIQ_FED_NAC": 22.58,
+    "ALIQ_FED_IMP": 35.26,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85279100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Radio com toca 8208 discos digitais a laser",
+    "ALIQ_FED_NAC": 25.12,
+    "ALIQ_FED_IMP": 37.80,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

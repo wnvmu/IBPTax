@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "20089900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Preparacoes de produtos horticolas fruta ou de outras partes de plantas Fruta e outras partes comestiveis de plantas preparadas ou conservadas de outro modo mesmo com adicao de acucar ou de outros edulcorantes ou de alcool nao especificadas nem compreendidas noutras posicoes outras",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 20.95,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "20089900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outs.frutas,partes de plantas,prepars/ conservs.out.modo, cozidas exceto em agua e vapor , congeladas e sem adicao de acucar ou de outros edulcorantes",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 20.95,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

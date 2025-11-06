@@ -1,0 +1,62 @@
+﻿[
+  {
+    "CODIGO": "90189099",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Instrumentos e aparelhos de optica de fotografia de cinematografia de medida de controle ou de precisao instrumentos e aparelhos medico cirurgicos suas partes e acessorios instrumentos e aparelhos para medicina cirurgia odontologia e veterinaria incluindo os aparelhos para cintilografia e outros aparelhos eletromedicos bem como os aparelhos para testes visuais outros",
+    "ALIQ_FED_NAC": 16.69,
+    "ALIQ_FED_IMP": 27.72,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "90189099",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Conjunto descartavel de circulacao assistida e conjunto descartavel de balao intra-aortico",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.48,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "90189099",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Maquinas cicladoras para dialise peritoneal e seus acessorios",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.48,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "90189099",
+    "EXCECAO_FISCAL": "03",
+    "DESCRICAO": "Equipamento de drenagem, capsula protetora do adaptador de titanio, equipamentos de transferencia ou similar e equipamento cassete cicladora, para dialise peritoneal",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.48,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "90189099",
+    "EXCECAO_FISCAL": "04",
+    "DESCRICAO": "Kits para aferese",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.48,
+    "ALIQ_ESTADUAL": 28.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

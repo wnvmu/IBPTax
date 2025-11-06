@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84819010",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Reatores nucleares caldeiras maquinas aparelhos e instrumentos mecanicos e suas partes Torneiras valvulas incluindo as redutoras de pressao e as termostaticas e dispositivos semelhantes para canalizacoes caldeiras reservatorios cubas e outros recipientes De valvulas tipo aerossol ou dos dispositivos do item 8481 80 1",
+    "ALIQ_FED_NAC": 16.30,
+    "ALIQ_FED_IMP": 23.26,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84819010",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Dos dispositivos do item 8481.80.1",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 20.41,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

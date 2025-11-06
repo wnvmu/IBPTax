@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "40159000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Borracha e suas obras Vestuario e seus acessorios incluindo as luvas mitenes e semelhantes de borracha vulcanizada nao endurecida para quaisquer usos outros",
+    "ALIQ_FED_NAC": 17.54,
+    "ALIQ_FED_IMP": 25.34,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "40159000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Vestuario de seguranca e protecao, mesmo com seus acessorios",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 21.25,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

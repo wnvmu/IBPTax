@@ -1,0 +1,50 @@
+﻿[
+  {
+    "CODIGO": "67010000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Penas e penugem preparadas e suas obras flores artificiais obras de cabelo Peles e outras partes de aves com as suas penas ou penugem penas partes de penas penugem e artigos destas materias exceto os produtos da posicao 05 05 bem como os calamos e outros canos de penas trabalhados",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.26,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "67010000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Pena solta, pele com pena, inteira, em parte, emendada ou nao",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.26,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "67010000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Artefatos de peles de aves providas de suas penas, de penas, de partes de penas e de penugem, exceto leques e ventarolas",
+    "ALIQ_FED_NAC": 21.50,
+    "ALIQ_FED_IMP": 32.31,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "67010000",
+    "EXCECAO_FISCAL": "03",
+    "DESCRICAO": "Leques e ventarolas",
+    "ALIQ_FED_NAC": 21.50,
+    "ALIQ_FED_IMP": 32.31,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,50 @@
+﻿[
+  {
+    "CODIGO": "85198190",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.apars.de gravacao/reprod.som",
+    "ALIQ_FED_NAC": 17.34,
+    "ALIQ_FED_IMP": 23.59,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85198190",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Aparelho gravador de som para cinema, utilizando fita magnetica em rolo aberto ou cartucho selado, registrando ao mesmo tempo, em pista de som auxiliar, um sinal de referencia de sincronismo para possibilitar a reproducao sincronica, em tempo real",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.70,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85198190",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Toca-fitas",
+    "ALIQ_FED_NAC": 17.99,
+    "ALIQ_FED_IMP": 24.24,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85198190",
+    "EXCECAO_FISCAL": "03",
+    "DESCRICAO": "Aparelhos de gravacao e de reproducao de som, de fitas magnetica",
+    "ALIQ_FED_NAC": 17.99,
+    "ALIQ_FED_IMP": 24.24,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "73231000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Palhas,esponjas,etc.de ferro/aco,p/limpeza/ polimento",
+    "ALIQ_FED_NAC": 14.98,
+    "ALIQ_FED_IMP": 20.47,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "73231000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Esponja de la de aco",
+    "ALIQ_FED_NAC": 14.24,
+    "ALIQ_FED_IMP": 19.73,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

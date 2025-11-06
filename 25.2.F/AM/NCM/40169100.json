@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "40169100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Revestim.p/pavimentos,etc.de borracha vulcan.n/endurec.",
+    "ALIQ_FED_NAC": 15.17,
+    "ALIQ_FED_IMP": 21.06,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "40169100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Tapetes proprios para onibus ou caminhoes",
+    "ALIQ_FED_NAC": 13.99,
+    "ALIQ_FED_IMP": 19.88,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "40169100",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Tapetes proprios para veiculos automoveis exceto onibus ou caminhoes",
+    "ALIQ_FED_NAC": 15.96,
+    "ALIQ_FED_IMP": 21.85,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

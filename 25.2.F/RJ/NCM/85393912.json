@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "85393912",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "De comprimento superior a 500 mm, mas nao superior a 1.500 mm e que contenham mais de 5 mg de mercurio",
+  "ALIQ_FED_NAC": 17.00,
+  "ALIQ_FED_IMP": 25.10,
+  "ALIQ_ESTADUAL": 22.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

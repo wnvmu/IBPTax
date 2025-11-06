@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "93039090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Armas e municoes suas partes e acessorios outras armas de fogo e aparelhos semelhantes que utilizem a deflagracao da polvora por exemplo espingardas e carabinas de caca armas de fogo carregaveis exclusivamente pela boca pistolas lanca foguetes e outros aparelhos concebidos apenas para lancar foguetes de sinalizacao pistolas e revolveres para tiro de festim tiro sem bala pistolas de embolo cativo para abater animais canhoes lanca amarras outros",
+    "ALIQ_FED_NAC": 32.70,
+    "ALIQ_FED_IMP": 42.97,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "93039090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Ex 01 - Pistolas de sinalizacao",
+    "ALIQ_FED_NAC": 22.30,
+    "ALIQ_FED_IMP": 32.57,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

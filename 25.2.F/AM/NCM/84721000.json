@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84721000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Reatores nucleares caldeiras maquinas aparelhos e instrumentos mecanicos e suas partes outras maquinas e aparelhos de escritorio por exemplo duplicadores hectograficos ou a estencil maquinas para imprimir enderecos distribuidores automaticos de notas maquinas para selecionar contar ou empacotar moedas maquinas para apontar lapis afiadores mecanicos de lapis perfuradores ou grampeadores agrafadores Duplicadores",
+    "ALIQ_FED_NAC": 17.90,
+    "ALIQ_FED_IMP": 24.22,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84721000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Duplicador Braille",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.77,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

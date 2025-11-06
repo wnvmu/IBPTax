@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85432000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Geradores de sinais,eletr.",
+    "ALIQ_FED_NAC": 16.55,
+    "ALIQ_FED_IMP": 26.53,
+    "ALIQ_ESTADUAL": 17.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85432000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Geradores de sinais de teste e referencia de video nos padroes SDi e HD-SDi, com capacidade de geracao de diferentes sinais de teste, dentre eles o \u0093color bars\u0094 e \u0093zoneplate\u0094",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 23.43,
+    "ALIQ_ESTADUAL": 17.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

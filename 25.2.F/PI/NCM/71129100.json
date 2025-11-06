@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "71129100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Perolas naturais ou cultivadas pedras preciosas ou semipreciosas e semelhantes metais preciosos metais folheados ou chapeados de metais preciosos plaque e suas obras bijuterias moedas Desperdicios e residuos de metais preciosos ou de metais folheados ou chapeados de metais preciosos plaque outros desperdicios e residuos que contenham metais preciosos ou compostos de metais preciosos do tipo utilizado principalmente para a recuperacao de metais pr",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 15.45,
+    "ALIQ_ESTADUAL": 22.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "71129100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Residuos do tipo dos utilizados para recuperacao desse metal",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 15.45,
+    "ALIQ_ESTADUAL": 22.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "12122900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Sementes e frutos oleaginosos graos sementes e frutos diversos plantas industriais ou medicinais palhas e forragens alfarroba algas beterraba sacarina e cana de acucar frescas refrigeradas congeladas ou secas mesmo em po carocos e amendoas de frutos e outros produtos vegetais incluindo as raizes de chicoria nao torradas da variedade cichorium intybus sativum utilizados principalmente na alimentacao humana nao especificados nem compreendidos noutr",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 16.98,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "12122900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outras algas, das especies utilizadas principalmente em medicina, secas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 16.98,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

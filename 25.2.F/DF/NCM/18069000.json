@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "18069000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Cacau e suas preparacoes chocolate e outras preparacoes alimenticias que contenham cacau outros",
+    "ALIQ_FED_NAC": 16.60,
+    "ALIQ_FED_IMP": 33.85,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "18069000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Achocolatados, assim entendidos os produtos a base de chocolate, em po ou em granulos, destinados a mistura com agua ou leite",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 30.70,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

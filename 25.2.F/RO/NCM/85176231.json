@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "85176231",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Centrais automaticas para comutacao por pacote com velocidade de tronco superior a 72kbits/s e de comutacao superior a 3.600 pacotes por segundo, sem multiplexacao deterministica",
+  "ALIQ_FED_NAC": 22.58,
+  "ALIQ_FED_IMP": 32.08,
+  "ALIQ_ESTADUAL": 17.50,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

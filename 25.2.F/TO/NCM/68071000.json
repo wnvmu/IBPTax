@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "68071000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Obras de asfalto ou de produtos semelhantes, em rolos",
+  "ALIQ_FED_NAC": 14.47,
+  "ALIQ_FED_IMP": 18.65,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

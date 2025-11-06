@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85114000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Motores de arranque p/motor explosao/diesel",
+    "ALIQ_FED_NAC": 15.96,
+    "ALIQ_FED_IMP": 22.26,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85114000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Para sistema eletrico em 24V, com potencia igual ou superior a 3kW",
+    "ALIQ_FED_NAC": 14.17,
+    "ALIQ_FED_IMP": 20.47,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

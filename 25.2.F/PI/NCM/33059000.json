@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "33059000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros preparacoes capilares",
+    "ALIQ_FED_NAC": 20.87,
+    "ALIQ_FED_IMP": 31.14,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "33059000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Condicionadores",
+    "ALIQ_FED_NAC": 16.03,
+    "ALIQ_FED_IMP": 26.30,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

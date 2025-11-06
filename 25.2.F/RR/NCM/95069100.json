@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "95069100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Artigos e equipamentos p/cultura fisica, ginastica,etc.",
+    "ALIQ_FED_NAC": 18.71,
+    "ALIQ_FED_IMP": 27.68,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "95069100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Pecas plasticas moldadas por injecao",
+    "ALIQ_FED_NAC": 21.07,
+    "ALIQ_FED_IMP": 30.04,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

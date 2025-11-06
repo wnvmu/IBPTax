@@ -1,0 +1,50 @@
+﻿[
+  {
+    "CODIGO": "87045100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Veiculos automoveis tratores ciclos e outros veiculos terrestres suas partes e acessorios Veiculos automoveis para transporte de mercadorias De peso em carga maxima bruto nao superior a 5 toneladas",
+    "ALIQ_FED_NAC": 15.71,
+    "ALIQ_FED_IMP": 25.33,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87045100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Chassis com motor e cabina exceto de caminhao",
+    "ALIQ_FED_NAC": 16.24,
+    "ALIQ_FED_IMP": 25.86,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87045100",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Com caixa basculante ou frigorificos ou isotermicos exceto caminhoes",
+    "ALIQ_FED_NAC": 14.61,
+    "ALIQ_FED_IMP": 24.23,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87045100",
+    "EXCECAO_FISCAL": "03",
+    "DESCRICAO": "Caminhoes inclusive com caixa basculante ou frigorificos ou isotermicos chassis de caminhao com motor e cabina",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 23.07,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

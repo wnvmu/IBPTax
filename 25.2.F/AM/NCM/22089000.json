@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "22089000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros bebidas alcoolicas",
+    "ALIQ_FED_NAC": 19.76,
+    "ALIQ_FED_IMP": 27.66,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22089000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Alcool etilico",
+    "ALIQ_FED_NAC": 15.36,
+    "ALIQ_FED_IMP": 23.26,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22089000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Bebida refrescante com teor alcoolico inferior a 8%",
+    "ALIQ_FED_NAC": 17.90,
+    "ALIQ_FED_IMP": 25.80,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

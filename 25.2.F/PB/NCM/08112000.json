@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "08112000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Fruta cascas de citros citrinos e de meloes Fruta nao cozida ou cozida em agua ou vapor congelada mesmo adicionada de acucar ou de outros edulcorantes Framboesas amoras incluindo as silvestres amoras framboesas e groselhas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 17.92,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "08112000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Framboesas,amoras,groselhas,congeladas,cozidas ou nao, adicionados de acucar ou de outros edulcorantes",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 17.92,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

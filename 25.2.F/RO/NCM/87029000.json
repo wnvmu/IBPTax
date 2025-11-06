@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "87029000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Veiculos automoveis tratores ciclos e outros veiculos terrestres suas partes e acessorios Veiculos automoveis para transporte de dez pessoas ou mais incluindo o motorista outros",
+    "ALIQ_FED_NAC": 21.85,
+    "ALIQ_FED_IMP": 42.00,
+    "ALIQ_ESTADUAL": 17.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87029000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outros",
+    "ALIQ_FED_NAC": 14.21,
+    "ALIQ_FED_IMP": 34.36,
+    "ALIQ_ESTADUAL": 17.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87029000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Outros",
+    "ALIQ_FED_NAC": 7.85,
+    "ALIQ_FED_IMP": 28.00,
+    "ALIQ_ESTADUAL": 17.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "73201000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Molas de folhas e suas folhas,de ferro ou aco",
+    "ALIQ_FED_NAC": 14.87,
+    "ALIQ_FED_IMP": 19.07,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "73201000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Para onibus ou caminhoes, com espessura da folha igual ou superior a 9 mm",
+    "ALIQ_FED_NAC": 13.85,
+    "ALIQ_FED_IMP": 18.05,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

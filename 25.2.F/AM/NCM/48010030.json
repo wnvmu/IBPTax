@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "48010030",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Papel e cartao obras de pasta de celulose de papel ou de cartao outros de peso inferior ou igual a 57 g m em que 65 ou mais em peso do conteudo total de fibras seja constituido por fibras de madeiras obtidas por processo mecanico",
+    "ALIQ_FED_NAC": 16.88,
+    "ALIQ_FED_IMP": 20.86,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "48010030",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outros, de peso inferior ou igual a 57 g/m2, em que 65 % ou mais, em peso, do conteudo total de fibras seja constituido por fibras de madeiras obtidas por processo mecanico",
+    "ALIQ_FED_NAC": 14.67,
+    "ALIQ_FED_IMP": 18.65,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

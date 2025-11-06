@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "24022000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Tabaco e seus sucedaneos manufaturados charutos cigarrilhas e cigarros de tabaco ou dos seus suceda neos cigarros Que contenham Tabaco",
+    "ALIQ_FED_NAC": 24.71,
+    "ALIQ_FED_IMP": 32.25,
+    "ALIQ_ESTADUAL": 29.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "24022000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Cigarros de fumo, feitos a mao",
+    "ALIQ_FED_NAC": 21.82,
+    "ALIQ_FED_IMP": 29.36,
+    "ALIQ_ESTADUAL": 29.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

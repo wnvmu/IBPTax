@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85122021",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Luzes fixas p/automoveis e outs.ciclos",
+    "ALIQ_FED_NAC": 21.93,
+    "ALIQ_FED_IMP": 33.85,
+    "ALIQ_ESTADUAL": 17.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85122021",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Lanternas para tratores agricolas",
+    "ALIQ_FED_NAC": 15.95,
+    "ALIQ_FED_IMP": 27.87,
+    "ALIQ_ESTADUAL": 17.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84818029",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Reatores nucleares caldeiras maquinas aparelhos e instrumentos mecanicos e suas partes Torneiras valvulas incluindo as redutoras de pressao e as termostaticas e dispositivos semelhantes para canalizacoes caldeiras reservatorios cubas e outros recipientes outros",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.86,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84818029",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Do tipo gaveta ou do tipo esfera, de ferro ou aco ou de cobre e suas ligas, e do tipo globo, do tipo borboleta, do tipo agulha ou do tipo diafragma, de ferro ou aco",
+    "ALIQ_FED_NAC": 14.69,
+    "ALIQ_FED_IMP": 21.10,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

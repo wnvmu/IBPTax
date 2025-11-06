@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84186940",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Reatores nucleares caldeiras maquinas aparelhos e instrumentos mecanicos e suas partes Refrigeradores congeladores freezers e outros materiais maquinas e aparelhos para a producao de frio com equipamento eletrico ou outro bombas de calor excluindo as maquinas e aparelhos de arcondicionado da posicao 84 15 Grupos frigorificos de compressao com capacidade inferior ou igual a 30 000 frigorias hora",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.19,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84186940",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Para ar-condicionado",
+    "ALIQ_FED_NAC": 20.04,
+    "ALIQ_FED_IMP": 30.78,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

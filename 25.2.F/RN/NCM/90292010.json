@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "90292010",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Indicadores de velocidade e tacometros",
+    "ALIQ_FED_NAC": 18.22,
+    "ALIQ_FED_IMP": 28.41,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "90292010",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Para veiculos com sistema eletrico em 24V",
+    "ALIQ_FED_NAC": 14.81,
+    "ALIQ_FED_IMP": 25.00,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

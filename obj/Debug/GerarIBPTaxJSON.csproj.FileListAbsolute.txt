@@ -1,0 +1,56 @@
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\GerarIBPTaxJSON.exe.config
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\GerarIBPTaxJSON.exe
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\GerarIBPTaxJSON.pdb
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Buffers.dll
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.IO.Pipelines.dll
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Memory.dll
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Numerics.Vectors.dll
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Text.Encodings.Web.dll
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Text.Json.dll
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.ValueTuple.dll
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Buffers.xml
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.IO.Pipelines.xml
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Memory.xml
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Numerics.Vectors.xml
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Text.Encodings.Web.xml
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Text.Json.xml
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\WNV\Criar insert IBPTAX\CriarIsert\bin\Debug\System.ValueTuple.xml
+C:\WNV\Criar insert IBPTAX\CriarIsert\obj\Debug\GerarIBPTaxJSON.csproj.AssemblyReference.cache
+C:\WNV\Criar insert IBPTAX\CriarIsert\obj\Debug\GerarIBPTaxJSON.csproj.CoreCompileInputs.cache
+C:\WNV\Criar insert IBPTAX\CriarIsert\obj\Debug\GerarIBPTaxJSON.csproj.CopyComplete
+C:\WNV\Criar insert IBPTAX\CriarIsert\obj\Debug\GerarIBPTaxJSON.exe
+C:\WNV\Criar insert IBPTAX\CriarIsert\obj\Debug\GerarIBPTaxJSON.pdb
+C:\WNV\IBPTax\obj\Debug\GerarIBPTaxJSON.csproj.AssemblyReference.cache
+C:\WNV\IBPTax\obj\Debug\GerarIBPTaxJSON.csproj.CoreCompileInputs.cache
+C:\WNV\IBPTax\obj\Debug\GerarIBPTaxJSON.exe
+C:\WNV\IBPTax\obj\Debug\GerarIBPTaxJSON.pdb
+C:\WNV\IBPTax\bin\GerarIBPTaxJSON.exe.config
+C:\WNV\IBPTax\bin\GerarIBPTaxJSON.exe
+C:\WNV\IBPTax\bin\GerarIBPTaxJSON.pdb
+C:\WNV\IBPTax\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WNV\IBPTax\bin\System.Buffers.dll
+C:\WNV\IBPTax\bin\System.IO.Pipelines.dll
+C:\WNV\IBPTax\bin\System.Memory.dll
+C:\WNV\IBPTax\bin\System.Numerics.Vectors.dll
+C:\WNV\IBPTax\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\WNV\IBPTax\bin\System.Text.Encodings.Web.dll
+C:\WNV\IBPTax\bin\System.Text.Json.dll
+C:\WNV\IBPTax\bin\System.Threading.Tasks.Extensions.dll
+C:\WNV\IBPTax\bin\System.ValueTuple.dll
+C:\WNV\IBPTax\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\WNV\IBPTax\bin\System.Buffers.xml
+C:\WNV\IBPTax\bin\System.IO.Pipelines.xml
+C:\WNV\IBPTax\bin\System.Memory.xml
+C:\WNV\IBPTax\bin\System.Numerics.Vectors.xml
+C:\WNV\IBPTax\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\WNV\IBPTax\bin\System.Text.Encodings.Web.xml
+C:\WNV\IBPTax\bin\System.Text.Json.xml
+C:\WNV\IBPTax\bin\System.Threading.Tasks.Extensions.xml
+C:\WNV\IBPTax\bin\System.ValueTuple.xml
+C:\WNV\IBPTax\obj\Debug\GerarIBPTaxJSON.csproj.CopyComplete

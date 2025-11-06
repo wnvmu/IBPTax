@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "93062900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Armas e municoes suas partes e acessorios Bombas granadas torpedos minas misseis cartuchos e outras municoes e projeteis e suas partes incluindo os zagalotes chumbos de caca e buchas para cartuchos outros",
+    "ALIQ_FED_NAC": 27.42,
+    "ALIQ_FED_IMP": 35.43,
+    "ALIQ_ESTADUAL": 32.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "93062900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Partes de cartuchos",
+    "ALIQ_FED_NAC": 17.98,
+    "ALIQ_FED_IMP": 25.99,
+    "ALIQ_ESTADUAL": 32.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

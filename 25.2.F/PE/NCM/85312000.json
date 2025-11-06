@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85312000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Paineis indicadores com dispositivos de cristais liquidos (lcd) ou de diodos emissores de luz (led)",
+    "ALIQ_FED_NAC": 17.42,
+    "ALIQ_FED_IMP": 23.78,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85312000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Quadro de sinalizacao, proprio para dar informacoes relativas a venda de mercadorias, constituido de painel eletronico e respectivos dispositivos de comando e controle unidade funcional",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.81,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

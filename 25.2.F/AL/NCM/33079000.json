@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "33079000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.prods.de perfumaria ou toucador, preparados,etc.",
+    "ALIQ_FED_NAC": 19.44,
+    "ALIQ_FED_IMP": 28.11,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "33079000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Solucoes para lentes de contato ou para olhos artificiais",
+    "ALIQ_FED_NAC": 16.91,
+    "ALIQ_FED_IMP": 25.58,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "08045010",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Fruta cascas de citros citrinos e de meloes Tamaras figos abacaxis ananases abacates goiabas mangas e mangostoes frescos ou secos Goiabas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.06,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "08045010",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Goiabas, secas e acondicionadas em embalagens de apresentacao",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.06,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

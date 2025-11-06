@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "85255029",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios aparelhos transmissores emissores para radiodifusao ou televisao mesmo que incorporem um aparelho receptor ou um aparelho de gravacao ou de reproducao de som cameras de televisao cameras fotograficas digitais e cameras de video outros",
+    "ALIQ_FED_NAC": 19.67,
+    "ALIQ_FED_IMP": 28.49,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85255029",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Transmissores digitais de televisao, em VHF ou uHF, com potencia maior ou igual a 1 kW e intermodulacao maior que 36 dB",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.27,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85255029",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Sistema irradiante configuravel, dedicado a transmissao de sinais de televisao digitais na faixa de frequencia de VHF e/ou uHF, com potencias irradiadas de ate 1MW RMS e constituidos por: antenas, cabos e/ou linhas rigidas de alimentacao, combinad",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.27,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

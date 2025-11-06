@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85437015",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.amplificad.radiofreq.p/transm.sinais microondas",
+    "ALIQ_FED_NAC": 16.22,
+    "ALIQ_FED_IMP": 22.64,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85437015",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De media ou de alta frequencia",
+    "ALIQ_FED_NAC": 18.67,
+    "ALIQ_FED_IMP": 25.09,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

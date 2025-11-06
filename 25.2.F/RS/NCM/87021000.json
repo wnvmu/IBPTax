@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "87021000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Veiculos automoveis p/transp>=10 pessoas,c/motor diesel",
+    "ALIQ_FED_NAC": 23.23,
+    "ALIQ_FED_IMP": 36.90,
+    "ALIQ_ESTADUAL": 8.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87021000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Com volume interno de habitaculo, destinado a passageiros e motorista, superior a 6m³, mas inferior a 9m³",
+    "ALIQ_FED_NAC": 17.72,
+    "ALIQ_FED_IMP": 31.39,
+    "ALIQ_ESTADUAL": 8.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87021000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Com volume interno de habitaculo, destinado a passageiros e motorista, igual ou superior a 9m³",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 27.12,
+    "ALIQ_ESTADUAL": 8.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

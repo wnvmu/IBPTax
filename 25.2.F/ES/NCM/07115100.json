@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "07115100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Cogumelos (agaricus)",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.68,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "07115100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Cogumelos (agaricus), com agua salgada, sulfurada ou adicionada de outras substancias",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.68,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

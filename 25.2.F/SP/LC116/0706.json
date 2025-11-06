@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "0706",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Colocacao e instalacao de tapetes, carpetes, assoalhos, cortinas, revestimentos de parede, vidros, divisorias, placas de gesso e congeneres, com material fornecido pelo tomador do servico.",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 0.00,
+  "ALIQ_MUNICIPAL": 4.34,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

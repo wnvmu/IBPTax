@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "87044300",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Veiculos automoveis tratores ciclos e outros veiculos terrestres suas partes e acessorios Veiculos automoveis para transporte de mercadorias De peso em carga maxima bruto superior a 20 toneladas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 23.99,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87044300",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Veiculo automovel para transporte de toras de madeira denominado comercialmente trator florestal e tecnicamente forwarder",
+    "ALIQ_FED_NAC": 15.06,
+    "ALIQ_FED_IMP": 25.60,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

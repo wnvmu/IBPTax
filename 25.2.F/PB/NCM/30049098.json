@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "30049098",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Produtos farmaceuticos Medicamentos exceto os produtos das posicoes 30 02 30 05 ou 30 06 constituidos por produtos misturados ou nao misturados preparados para fins terapeuticos ou profilaticos apresentados em doses incluindo os destinados a serem administrados por via percutanea ou acondicionados para venda a retalho Regenerador de cartilagem constituido por colageno moldado absorvivel",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

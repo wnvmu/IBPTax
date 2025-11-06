@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "0505",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Bancos de sangue e de orgaos e congeneres.",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 0.00,
+  "ALIQ_MUNICIPAL": 4.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

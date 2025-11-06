@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "89031200",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Embarcacoes e estruturas flutuantes iates e outros barcos e embarcacoes de recreio ou de esporte barcos a remos e canoas nao concebidos para serem utilizados com um motor e de peso vazio sem carga nao superior a 100 kg",
+  "ALIQ_FED_NAC": 15.16,
+  "ALIQ_FED_IMP": 21.43,
+  "ALIQ_ESTADUAL": 14.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

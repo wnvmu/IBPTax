@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "90138000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Instrumentos e aparelhos de optica de fotografia de cinematografia de medida de controle ou de precisao instrumentos e aparelhos medico cirurgicos suas partes e acessorios Dispositivos de cristais liquidos que nao constituam artigos compreendidos mais esp",
+    "ALIQ_FED_NAC": 14.87,
+    "ALIQ_FED_IMP": 19.30,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "90138000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "conta fios",
+    "ALIQ_FED_NAC": 13.95,
+    "ALIQ_FED_IMP": 18.38,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

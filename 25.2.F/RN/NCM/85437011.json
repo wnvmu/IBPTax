@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85437011",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios Maquinas e aparelhos eletricos com funcao propria nao especificados nem compreendidos noutras posicoes do presente capitulo Para transmissao de sinais de micro ondas de alta potencia HPa a valvula TWT do tipo Phase combiner com potencia de saida supe",
+    "ALIQ_FED_NAC": 16.73,
+    "ALIQ_FED_IMP": 18.73,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85437011",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De media ou de alta frequencia",
+    "ALIQ_FED_NAC": 19.63,
+    "ALIQ_FED_IMP": 21.63,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

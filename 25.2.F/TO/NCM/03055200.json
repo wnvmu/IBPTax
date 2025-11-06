@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "03055200",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Tilapias (oreochromis spp), bagres (peixes gato*) (pangasius spp, silurus spp, clarias spp, ictalurus spp), carpas (cyprinus spp, carassius spp, ctenopharyngodon idellus, hypophthalmichthys spp, cirrhinus spp, mylopharyngodon piceus, catla catla, labeo spp, osteochilus hasselti, leptobarbus hoeveni, megalobrama spp), enguias (anguilla spp), perca do nilo (lates niloticus) e peixes cabeca de serpente (channa spp)",
+  "ALIQ_FED_NAC": 14.47,
+  "ALIQ_FED_IMP": 19.15,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

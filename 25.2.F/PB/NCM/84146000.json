@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84146000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Reatores nucleares caldeiras maquinas aparelhos e instrumentos mecanicos e suas partes Bombas de ar ou de vacuo compressores de ar ou de outros gases e ventiladores coifas aspirantes exaustores para extracao ou reciclagem com ventilador incorporado mesmo filtrantes cabinas camaras de seguranca biologica estanques aos gases mesmo filtrantes coifas aspirantes exaustores com dimensao horizontal maxima nao superior a 120 cm",
+    "ALIQ_FED_NAC": 15.17,
+    "ALIQ_FED_IMP": 21.47,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84146000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Do tipo domestico",
+    "ALIQ_FED_NAC": 15.96,
+    "ALIQ_FED_IMP": 22.26,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

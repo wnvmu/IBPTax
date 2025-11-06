@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "95045000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Brinquedos jogos artigos para divertimento ou para esporte suas partes e acessorios consoles e maquinas de jogos de video artigos para jogos de salao incluindo os jogos com motor ou outro mecanismo os bilhares as mesas especiais para jogos de cassino e os jogos de balizas pinos automaticos boliche consoles e maquinas de jogos de video exceto os classificados na subposicao 9504 30",
+    "ALIQ_FED_NAC": 21.01,
+    "ALIQ_FED_IMP": 29.93,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "95045000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Partes e acessorios dos consoles e das maquinas de jogos de video cujas imagens sao reproduzidas numa tela de um receptor de televisao, num monitor ou noutra tela ou superficie externa",
+    "ALIQ_FED_NAC": 17.19,
+    "ALIQ_FED_IMP": 26.11,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "95045000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Maquinas de jogos de video com tela incorporada, portateis ou nao, e suas partes e acessorios",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.37,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

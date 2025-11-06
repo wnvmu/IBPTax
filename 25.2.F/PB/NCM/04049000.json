@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "04049000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Leite e lacticinios ovos de aves mel natural produtos comestiveis de origem animal nao especificados nem compreendidos noutros capitulos Soro de leite mesmo concentrado ou adicionado de acucar ou de outros edulcorantes produtos constituidos por componentes naturais do leite mesmo adicionados de acucar ou de outros edulcorantes nao especificados nem compreendidos noutras posicoes outros",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.80,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "04049000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outs.prods.constituidos do leite,mesmo adocicados,etc., em estado pastoso ou solido",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.80,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

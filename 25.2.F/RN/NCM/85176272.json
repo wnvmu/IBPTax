@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "85176272",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Outros aparelhos emissores com receptor incorporado, digitais de frequencia inferior a 15ghz e de taxa de transmissao inferior ou igual a 34mbits/s, exceto os de sistema bidirecional de radiomensagens de taxa de transmissao inferior ou igual a 112kbits/s",
+  "ALIQ_FED_NAC": 20.45,
+  "ALIQ_FED_IMP": 29.21,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

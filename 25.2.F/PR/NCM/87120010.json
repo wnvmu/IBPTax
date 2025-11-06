@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "87120010",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Veiculos automoveis tratores ciclos e outros veiculos terrestres suas partes e acessorios Bicicletas",
+    "ALIQ_FED_NAC": 15.98,
+    "ALIQ_FED_IMP": 26.67,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87120010",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Bicicletas com cambio",
+    "ALIQ_FED_NAC": 16.75,
+    "ALIQ_FED_IMP": 27.44,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "96121000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Obras diversas Fitas impressoras para maquinas de escrever e fitas impressoras semelhantes tintadas ou preparadas de outra forma para imprimir montadas ou nao em carreteis ou cartuchos almofadas de carimbo impregnadas ou nao mesmo com caixa Fitas impressoras",
+    "ALIQ_FED_NAC": 18.18,
+    "ALIQ_FED_IMP": 25.24,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "96121000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De poliester",
+    "ALIQ_FED_NAC": 19.50,
+    "ALIQ_FED_IMP": 26.56,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

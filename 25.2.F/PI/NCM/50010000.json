@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "50010000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Casulos de bicho-da-seda,proprios para dobar",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 17.51,
+  "ALIQ_ESTADUAL": 22.50,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-10-20",
+  "DT_FIM_VIG": "2025-11-30",
+  "FONTE": "IBPT/empresometro.com.br"
+}

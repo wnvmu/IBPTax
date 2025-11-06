@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "22042910",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Bebidas liquidos alcoolicos e vinagres Vinhos de uvas frescas incluindo os vinhos enriquecidos com alcool mostos de uvas excluindo os da posicao 20 09 Vinhos",
+    "ALIQ_FED_NAC": 17.78,
+    "ALIQ_FED_IMP": 30.60,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22042910",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Vinhos",
+    "ALIQ_FED_NAC": 21.61,
+    "ALIQ_FED_IMP": 34.43,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

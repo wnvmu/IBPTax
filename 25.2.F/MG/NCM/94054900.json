@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "94054900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Moveis mobiliario medico cirurgico colchoes almofadas e semelhantes aparelhos de iluminacao nao especificados nem compreendidos noutros capitulos anuncios cartazes ou tabuletas e placas indicadoras luminosos e artigos semelhantes construcoes pre fabricadas aparelhos de iluminacao incluindo os projetores e suas partes nao especificados nem compreendidos noutras posicoes anuncios cartazes ou tabuletas e placas indicadoras luminosos e artigos semelh",
+    "ALIQ_FED_NAC": 19.67,
+    "ALIQ_FED_IMP": 31.43,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "94054900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Refletores projetores de lampadas halogenas ou HMi abertos ou com lentes de Fresnel",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 25.21,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

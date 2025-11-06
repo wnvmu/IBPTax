@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "97019900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Objetos de arte de colecao e antiguidades Quadros pinturas e desenhos feitos inteiramente a mao exceto os desenhos da posicao 49 06 e os artigos manufaturados decorados a mao colagens e quadros decorativos semelhantes outros",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 17.05,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "97019900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De flores botoes de flores ou de outras partes de plantas naturais ervas musgos e liquens",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 17.05,
+    "ALIQ_ESTADUAL": 20.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

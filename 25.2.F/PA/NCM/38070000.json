@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "38070000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Alcatroes de madeira,oleos de alcatrao de madeira,etc.",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 20.52,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "38070000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Solventes e diluentes compostos para vernizes ou produtos semelhantes",
+    "ALIQ_FED_NAC": 16.22,
+    "ALIQ_FED_IMP": 23.29,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-10-20",
+    "DT_FIM_VIG": "2025-11-30",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]
