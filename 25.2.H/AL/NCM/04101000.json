@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "04101000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Leite e lacticinios ovos de aves mel natural produtos comestiveis de origem animal nao especificados nem compreendidos noutros capitulos insetos e outros produtos comestiveis de origem animal nao especificados nem compreendidos noutras posicoes insetos",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 18.59,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

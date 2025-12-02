@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "40131090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.camaras-de-ar borracha,p/pneumats. automoveis, etc.",
+    "ALIQ_FED_NAC": 15.96,
+    "ALIQ_FED_IMP": 21.85,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "40131090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Dos tipos utilizados em onibus ou caminhoes",
+    "ALIQ_FED_NAC": 13.81,
+    "ALIQ_FED_IMP": 19.70,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,74 @@
+﻿[
+  {
+    "CODIGO": "22029900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outras",
+    "ALIQ_FED_NAC": 14.95,
+    "ALIQ_FED_IMP": 26.00,
+    "ALIQ_ESTADUAL": 24.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22029900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outras",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.50,
+    "ALIQ_ESTADUAL": 24.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22029900",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Outras",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.50,
+    "ALIQ_ESTADUAL": 24.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22029900",
+    "EXCECAO_FISCAL": "03",
+    "DESCRICAO": "Outras",
+    "ALIQ_FED_NAC": 14.95,
+    "ALIQ_FED_IMP": 26.00,
+    "ALIQ_ESTADUAL": 24.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22029900",
+    "EXCECAO_FISCAL": "04",
+    "DESCRICAO": "Outras",
+    "ALIQ_FED_NAC": 14.95,
+    "ALIQ_FED_IMP": 26.00,
+    "ALIQ_ESTADUAL": 24.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22029900",
+    "EXCECAO_FISCAL": "05",
+    "DESCRICAO": "Bebidas alimentares a base ou elaboradas a partir de materias primas vegetais classificadas nas posicoes 08 01 ou 08 02 no capitulo 10 ou no capitulo 12 exceto a posicao 12 01 que nao contenham leite animal produtos lacteos ou gorduras deles derivados em",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.50,
+    "ALIQ_ESTADUAL": 24.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

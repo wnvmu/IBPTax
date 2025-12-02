@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85423110",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Circuitos integrados eletronicosprocessadores e controladores, mesmo combinados com memorias, conversores, circuitos logicos, amplificadores, circuitos temporizadores e de sincronizacao, ou outros circuitos, nao montados",
+    "ALIQ_FED_NAC": 13.95,
+    "ALIQ_FED_IMP": 15.95,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85423110",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Obtidos por tecnologia bipolar",
+    "ALIQ_FED_NAC": 14.67,
+    "ALIQ_FED_IMP": 16.67,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

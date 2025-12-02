@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "72011000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Ferro fundido bruto nao ligado,c/peso<=0.5% de fosforo",
+  "ALIQ_FED_NAC": 15.06,
+  "ALIQ_FED_IMP": 18.84,
+  "ALIQ_ESTADUAL": 17.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

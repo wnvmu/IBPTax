@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "29314920",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Produtos quimicos organicos outros compostos organo inorganicos Hidrogenio alquil de c1 a c3 fosfonitos de o 2 dialquil de c1 a c3 amino etila seus esteres de o alquila de ate c10 incluindo os cicloalquila sais alquilados ou protonados destes produtos",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 18.53,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85161000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Aquecedores eletricos de agua,incl.os de imersao",
+    "ALIQ_FED_NAC": 18.74,
+    "ALIQ_FED_IMP": 27.76,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85161000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Chuveiro eletrico",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.47,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

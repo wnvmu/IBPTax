@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "85366100",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Suporte p/lampadas,p/tensao<=1kv",
+  "ALIQ_FED_NAC": 18.60,
+  "ALIQ_FED_IMP": 28.60,
+  "ALIQ_ESTADUAL": 19.50,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "95042000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Bilhares e seus acess.",
+    "ALIQ_FED_NAC": 20.02,
+    "ALIQ_FED_IMP": 26.87,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "95042000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Gizes",
+    "ALIQ_FED_NAC": 17.11,
+    "ALIQ_FED_IMP": 23.96,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

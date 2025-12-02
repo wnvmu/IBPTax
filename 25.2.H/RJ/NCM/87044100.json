@@ -1,0 +1,62 @@
+﻿[
+  {
+    "CODIGO": "87044100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Veiculos automoveis tratores ciclos e outros veiculos terrestres suas partes e acessorios Veiculos automoveis para transporte de mercadorias De peso em carga maxima bruto nao superior a 5 toneladas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 23.09,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87044100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "chassis com motor e cabina de furgoes pick ups camionetas e semelhantes",
+    "ALIQ_FED_NAC": 15.17,
+    "ALIQ_FED_IMP": 24.81,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87044100",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Furgoes pick ups camionetas e semelhantes com caixa basculante ou frigorificos ou isotermicos",
+    "ALIQ_FED_NAC": 15.17,
+    "ALIQ_FED_IMP": 24.81,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87044100",
+    "EXCECAO_FISCAL": "03",
+    "DESCRICAO": "Outros furgoes pick ups camionetas e semelhantes",
+    "ALIQ_FED_NAC": 15.17,
+    "ALIQ_FED_IMP": 24.81,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87044100",
+    "EXCECAO_FISCAL": "04",
+    "DESCRICAO": "carro forte para transporte de valores",
+    "ALIQ_FED_NAC": 16.25,
+    "ALIQ_FED_IMP": 25.89,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

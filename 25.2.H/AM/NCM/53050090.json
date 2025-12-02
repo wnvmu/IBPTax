@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "53050090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outras fibras texteis vegetais fios de papel e tecidos de fios de papel outros",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 17.43,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "53050090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Estopas e desperdicios, exceto de sisal",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 17.43,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "53050090",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Em bruto, exceto sisal",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 17.43,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

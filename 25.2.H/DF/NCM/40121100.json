@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "40121100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Pneumaticos recauchutados,de borracha p/ automoveis",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.00,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "40121100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Remoldados",
+    "ALIQ_FED_NAC": 15.96,
+    "ALIQ_FED_IMP": 21.51,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

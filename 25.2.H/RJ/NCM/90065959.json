@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "90065959",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Instrumentos e aparelhos de optica de fotografia de cinematografia de medida de controle ou de precisao instrumentos e aparelhos medico cirurgicos suas partes e acessorios cameras fotograficas aparelhos e dispositivos incluindo as lampadas e tubos de luz relampago flash para fotografia exceto as lampadas e tubos de descarga da posicao 85 39 outras",
+    "ALIQ_FED_NAC": 14.33,
+    "ALIQ_FED_IMP": 17.70,
+    "ALIQ_ESTADUAL": 22.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "90065959",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outras",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 16.82,
+    "ALIQ_ESTADUAL": 22.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "88069200",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Aeronaves e aparelhos espaciais e suas partes Veiculos aereos aeronaves nao tripulados De peso maximo de decolagem superior a 250 g mas nao superior a 7 kg",
+    "ALIQ_FED_NAC": 16.24,
+    "ALIQ_FED_IMP": 18.24,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "88069200",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "concebidos para a obtencao ou captura de imagens",
+    "ALIQ_FED_NAC": 18.71,
+    "ALIQ_FED_IMP": 20.71,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

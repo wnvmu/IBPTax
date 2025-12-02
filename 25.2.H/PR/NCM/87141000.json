@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "87141000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Partes e acess.p/motocicletas incl. ciclomotores",
+    "ALIQ_FED_NAC": 15.78,
+    "ALIQ_FED_IMP": 21.33,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87141000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Pecas plasticas moldadas por injecao",
+    "ALIQ_FED_NAC": 16.47,
+    "ALIQ_FED_IMP": 22.02,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "22042100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Bebidas liquidos alcoolicos e vinagres Vinhos de uvas frescas incluindo os vinhos enriquecidos com alcool mostos de uvas excluindo os da posicao 20 09 em recipientes de capacidade nao superior a 2 l",
+    "ALIQ_FED_NAC": 16.25,
+    "ALIQ_FED_IMP": 27.99,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22042100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Vinhos da madeira, do porto e de xerez",
+    "ALIQ_FED_NAC": 18.72,
+    "ALIQ_FED_IMP": 30.46,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

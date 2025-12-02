@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "22021000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Bebidas liquidos alcoolicos e vinagres aguas incluindo as aguas minerais e as aguas gaseificadas adicionadas de acucar ou de outros edulcorantes ou aromatizadas e outras bebidas nao alcoolicas exceto sucos sumos de fruta ou de produtos horticolas da posicao 20 09 aguas incluindo as aguas minerais e as aguas gaseificadas adicionadas de acucar ou de outros edulcorantes ou aromatizadas",
+    "ALIQ_FED_NAC": 14.83,
+    "ALIQ_FED_IMP": 25.12,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22021000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Refrescos",
+    "ALIQ_FED_NAC": 14.83,
+    "ALIQ_FED_IMP": 25.12,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "69072300",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Com um coeficiente de absorcao de agua, em peso, superior a 10 %",
+  "ALIQ_FED_NAC": 13.75,
+  "ALIQ_FED_IMP": 21.01,
+  "ALIQ_ESTADUAL": 20.50,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

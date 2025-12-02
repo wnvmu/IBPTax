@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "1502",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Abertura de contas em geral, inclusive conta-corrente, conta de investimentos e aplicacao e caderneta de poupanca, no pais e no exterior, bem como a manutencao das referidas contas ativas e inativas.",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 0.00,
+  "ALIQ_MUNICIPAL": 4.85,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

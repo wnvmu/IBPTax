@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "87023000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Equipados para propulsao, simultaneamente, com um motor de pistao alternativo de ignicao por centelha (faisca*) e um motor eletrico",
+    "ALIQ_FED_NAC": 23.23,
+    "ALIQ_FED_IMP": 36.90,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87023000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Equipados para propulsao, simultaneamente, com um motor de pistao alternativo de ignicao por centelha (faisca*) e um motor eletrico",
+    "ALIQ_FED_NAC": 17.72,
+    "ALIQ_FED_IMP": 31.39,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87023000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Equipados para propulsao, simultaneamente, com um motor de pistao alternativo de ignicao por centelha (faisca*) e um motor eletrico",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 27.12,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

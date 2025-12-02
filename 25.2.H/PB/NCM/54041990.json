@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "54041990",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Outs.monofilamentos sintet.t>=67decitex, sec.transv<=1mm",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 20.02,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

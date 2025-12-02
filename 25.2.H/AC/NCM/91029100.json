@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "91029100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Relogio de bolso,semelh.func.eletr.",
+    "ALIQ_FED_NAC": 18.98,
+    "ALIQ_FED_IMP": 28.31,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "91029100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Com caixa de metal comum, mesmo dourado, prateado ou platinado",
+    "ALIQ_FED_NAC": 17.72,
+    "ALIQ_FED_IMP": 27.05,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "91029100",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Com caixa de plasticos sem carga ou reforco de fibras de vidro",
+    "ALIQ_FED_NAC": 17.72,
+    "ALIQ_FED_IMP": 27.05,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

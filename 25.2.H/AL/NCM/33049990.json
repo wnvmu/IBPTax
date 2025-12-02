@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "33049990",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.produtos de beleza ou de maquilagem preparados,etc",
+    "ALIQ_FED_NAC": 21.93,
+    "ALIQ_FED_IMP": 33.38,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "33049990",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Preparados bronzeadores",
+    "ALIQ_FED_NAC": 18.35,
+    "ALIQ_FED_IMP": 29.80,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "33049990",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Preparados anti-solares, exceto os que possuam propriedades de bronzeadores",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 24.90,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

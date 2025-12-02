@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "02109200",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Carnes e miudezas,de baleias,golfinhos e botos, peixes-boi e digongos, otarias e focas, leoes-marinhos e morsas,salgados,etc.",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.89,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "02109200",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Miudezas, farinhas e pos dessas miudezas de baleias, golfinhos e botos mamiferos da ordem dos cetaceos , de peixes-boi manatins e dugongos mamiferos da ordem dos sirenios , de otarias e focas, leoes-marinhos e morsas mamiferos da subordem dos pinipedes",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.89,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

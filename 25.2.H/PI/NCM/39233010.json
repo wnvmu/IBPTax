@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "39233010",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Recipientes para gas liquefeito de petroleo (GLP)",
+  "ALIQ_FED_NAC": 18.78,
+  "ALIQ_FED_IMP": 20.78,
+  "ALIQ_ESTADUAL": 22.50,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85176299",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.aparelhos de recepcao, conversao e transmissao ou regeneracao de voz, imagens ou outros dados",
+    "ALIQ_FED_NAC": 19.35,
+    "ALIQ_FED_IMP": 29.17,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85176299",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Receptores pessoais de radiomensagens",
+    "ALIQ_FED_NAC": 18.00,
+    "ALIQ_FED_IMP": 27.82,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

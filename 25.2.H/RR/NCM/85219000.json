@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85219000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros",
+    "ALIQ_FED_NAC": 19.41,
+    "ALIQ_FED_IMP": 28.38,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85219000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Aparelhos de reproducao de imagem e som em disco por meio optico ou optomagnetico",
+    "ALIQ_FED_NAC": 22.59,
+    "ALIQ_FED_IMP": 31.56,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

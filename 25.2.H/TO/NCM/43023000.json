@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "43023000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Peles com pelo e suas obras peles com pelo artificiais Peles com pelo curtidas ou acabadas incluindo as cabecas caudas patas e outras partes desperdicios e aparas nao reunidas nao montadas ou reunidas montadas sem adicao de outras materias com excecao das da posicao 43 03 Peles com pelo inteiras e respectivos pedacos e aparas reunidos montados",
+    "ALIQ_FED_NAC": 22.57,
+    "ALIQ_FED_IMP": 28.21,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "43023000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De bovino, ovino, caprino, coelho ou de lebre",
+    "ALIQ_FED_NAC": 15.43,
+    "ALIQ_FED_IMP": 21.07,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "43023000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Peles \u0093alongadas\u0094, exceto de bovino, ovino, caprino, coelho ou de lebre",
+    "ALIQ_FED_NAC": 20.16,
+    "ALIQ_FED_IMP": 25.80,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

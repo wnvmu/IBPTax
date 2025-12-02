@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84221900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros maqs.de lavar louca",
+    "ALIQ_FED_NAC": 17.57,
+    "ALIQ_FED_IMP": 23.58,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84221900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Com capacidade de lavagem superior a 1000 pratos por hora",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.46,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

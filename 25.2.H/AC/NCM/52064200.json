@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "52064200",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Fio algodao<85%,retorc.fibra pent.de titulo inferior a 714,29 decitex mas nao inferior a 232,56 decitex, por fio simples (numero metrico superior a 14 mas nao superior a 43, por fio simples)",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 22.78,
+  "ALIQ_ESTADUAL": 19.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "48010090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Papel e cartao obras de pasta de celulose de papel ou de cartao outros",
+    "ALIQ_FED_NAC": 16.34,
+    "ALIQ_FED_IMP": 21.51,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "48010090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outros papeis jornais,em rolos ou em folhas",
+    "ALIQ_FED_NAC": 14.47,
+    "ALIQ_FED_IMP": 19.64,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

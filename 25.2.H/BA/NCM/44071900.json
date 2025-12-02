@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "44071900",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Outras",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 17.01,
+  "ALIQ_ESTADUAL": 20.50,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

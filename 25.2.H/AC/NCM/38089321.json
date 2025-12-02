@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "38089321",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Herbicidas a base de acido 2,4-diclorofenoxiacetico (2,4-d), de acido 4-(2,4-diclorofenoxi)butirico (2,4-db), de acido (4-cloro-2-metil)fenoxiacetico (mcpa) ou de derivados de 2,4-d ou 2,4-db",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 20.83,
+  "ALIQ_ESTADUAL": 19.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

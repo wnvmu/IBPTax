@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85169000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Partes de aquecedores eletr/apars.eletr.p/ aquecim.etc.",
+    "ALIQ_FED_NAC": 19.36,
+    "ALIQ_FED_IMP": 29.54,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85169000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De fogoes de cozinha",
+    "ALIQ_FED_NAC": 16.55,
+    "ALIQ_FED_IMP": 26.73,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

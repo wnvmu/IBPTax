@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "70071100",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Vidros de seguranca,temperados, p/automoveis/ outs.veics.",
+    "ALIQ_FED_NAC": 15.96,
+    "ALIQ_FED_IMP": 20.71,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "70071100",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Para onibus ou caminhoes, nas seguintes dimensoes admitida a tolerancia de ate 5%, para mais ou para menos : 1.693 x 575 x 6,75mm, 1.305 x 489 x 6mm, 728 x 489 x 6mm, 640 x 220 x 4,8mm, e 600 x 595 x 4,8mm",
+    "ALIQ_FED_NAC": 13.99,
+    "ALIQ_FED_IMP": 18.74,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

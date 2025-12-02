@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85287190",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.apars.recep.televisao cores,mesmo c/apars.som/imag",
+    "ALIQ_FED_NAC": 17.13,
+    "ALIQ_FED_IMP": 23.43,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85287190",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Receptores de sinais de televisao via cabo",
+    "ALIQ_FED_NAC": 18.15,
+    "ALIQ_FED_IMP": 24.45,
+    "ALIQ_ESTADUAL": 27.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

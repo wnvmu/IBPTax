@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84159010",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Unid.evap.interna ar cond. split c/ cap<=30k frig/hora",
+    "ALIQ_FED_NAC": 23.45,
+    "ALIQ_FED_IMP": 33.81,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84159010",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Com capacidade inferior a 7.500 frigorias/hora",
+    "ALIQ_FED_NAC": 29.01,
+    "ALIQ_FED_IMP": 39.37,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

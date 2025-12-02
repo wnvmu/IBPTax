@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "22011000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Bebidas liquidos alcoolicos e vinagres aguas incluindo as aguas minerais naturais ou artificiais e as aguas gaseificadas nao adicionadas de acucar ou de outros edulcorantes nem aromatizadas gelo e neve aguas minerais e aguas gaseificadas",
+    "ALIQ_FED_NAC": 14.60,
+    "ALIQ_FED_IMP": 23.52,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22011000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Aguas minerais naturais comercializadas em recipientes com capacidade nominal inferior a 10 dez litros",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.37,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22011000",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Aguas minerais naturais comercializadas em recipientes com capacidade nominal igual ou superior a 10 dez litros",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.37,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

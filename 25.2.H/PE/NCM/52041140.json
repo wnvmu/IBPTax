@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "52041140",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Linha p/costura,de algodao>=85%,branqueado/cor, t>5000d",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 22.48,
+  "ALIQ_ESTADUAL": 20.50,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

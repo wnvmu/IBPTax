@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "70042000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Vidro e suas obras Vidro estirado ou soprado em folhas mesmo com camada absorvente refletora ou nao mas nao trabalhado de outro modo Vidro corado na massa opacificado folheado chapeado ou com camada absorvente refletora ou nao",
+    "ALIQ_FED_NAC": 15.43,
+    "ALIQ_FED_IMP": 20.11,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "70042000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De vidro optico",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.13,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

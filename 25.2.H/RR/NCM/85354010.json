@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "85354010",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Para-raios p/prot.linhas transmiss. eletricidade, t>1kv",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 23.63,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

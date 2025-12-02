@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "87116000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Com motor eletrico para propulsao",
+  "ALIQ_FED_NAC": 30.56,
+  "ALIQ_FED_IMP": 42.63,
+  "ALIQ_ESTADUAL": 19.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

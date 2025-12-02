@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "85153110",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Robos para soldar, por arco, em atmosfera inerte (mig -\u0093metal inert gas\u0094) ou atmosfera ativa (mag -\u0093metal active gas\u0094), de comando numerico",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

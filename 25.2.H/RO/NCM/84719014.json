@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84719014",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Reatores nucleares caldeiras maquinas aparelhos e instrumentos mecanicos e suas partes Maquinas automaticas para processamento de dados e suas unidades leitores magneticos ou opticos maquinas para registrar dados em suporte sob forma codificada e maquinas para processamento desses dados nao especificadas nem compreendidas noutras posicoes Digitalizadores de imagens scanners",
+    "ALIQ_FED_NAC": 20.71,
+    "ALIQ_FED_IMP": 22.71,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84719014",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Equipados com sintetizador de voz",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 15.45,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

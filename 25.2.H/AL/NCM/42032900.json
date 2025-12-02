@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "42032900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.luvas,mitemes,etc.de couro natural/ reconstituido",
+    "ALIQ_FED_NAC": 15.16,
+    "ALIQ_FED_IMP": 21.43,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "42032900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De protecao, para trabalho manual",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.72,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

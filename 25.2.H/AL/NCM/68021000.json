@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "68021000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Ladrilhos,etc.de pedra natural,lado<7cm",
+    "ALIQ_FED_NAC": 14.33,
+    "ALIQ_FED_IMP": 18.21,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "68021000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Ladrilhos e placas lajes para pavimentacao ou revestimento",
+    "ALIQ_FED_NAC": 13.63,
+    "ALIQ_FED_IMP": 17.51,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

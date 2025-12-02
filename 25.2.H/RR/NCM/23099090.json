@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "23099090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros preparacoes para alimentacao de animais",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.08,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "23099090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outras preparacoes alimenticias para caes ou gatos, nao acondicionadas para a venda a retalho",
+    "ALIQ_FED_NAC": 16.75,
+    "ALIQ_FED_IMP": 22.38,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

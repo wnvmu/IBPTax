@@ -1,0 +1,50 @@
+﻿[
+  {
+    "CODIGO": "85365090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.interruptores,etc.de circuitos eletr.p/tensao<=1kv",
+    "ALIQ_FED_NAC": 22.33,
+    "ALIQ_FED_IMP": 38.12,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85365090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Interruptor de embutir ou sobrepor, rotativo ou de alavanca, para sistema eletrico em 24V, proprio para onibus ou caminhoes",
+    "ALIQ_FED_NAC": 15.98,
+    "ALIQ_FED_IMP": 31.77,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85365090",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Chaves de faca",
+    "ALIQ_FED_NAC": 16.60,
+    "ALIQ_FED_IMP": 32.39,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85365090",
+    "EXCECAO_FISCAL": "03",
+    "DESCRICAO": "Do tipo utilizado em residencias",
+    "ALIQ_FED_NAC": 16.60,
+    "ALIQ_FED_IMP": 32.39,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

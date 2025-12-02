@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "08055000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Limoes (citrus limon, citrus limonum) e limas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 20.86,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "08055000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Limoes (citrus limon, citrus limonum) e limas, secos",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 20.86,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

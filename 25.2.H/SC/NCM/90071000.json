@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "90071000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Instrumentos e aparelhos de optica de fotografia de cinematografia de medida de controle ou de precisao instrumentos e aparelhos medico cirurgicos suas partes e acessorios cameras e projetores cinematograficos mesmo com aparelhos de gravacao ou de reproducao de som incorporados cameras",
+    "ALIQ_FED_NAC": 23.22,
+    "ALIQ_FED_IMP": 31.92,
+    "ALIQ_ESTADUAL": 3.40,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "90071000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Para filmes de 16 mm de largura ou de largura nao inferior a 35 mm",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 22.15,
+    "ALIQ_ESTADUAL": 3.40,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

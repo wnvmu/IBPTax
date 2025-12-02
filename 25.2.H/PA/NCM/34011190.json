@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "34011190",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.prods/prepars.de toucador,em barras, pedacos,etc.",
+    "ALIQ_FED_NAC": 15.65,
+    "ALIQ_FED_IMP": 27.41,
+    "ALIQ_ESTADUAL": 7.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "34011190",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Sabao",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 25.21,
+    "ALIQ_ESTADUAL": 7.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

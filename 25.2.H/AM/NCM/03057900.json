@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "03057900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outros desperdicios comestiveis de peixes secos,mesmo salgados mas nao defumados",
+    "ALIQ_FED_NAC": 14.67,
+    "ALIQ_FED_IMP": 19.86,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "03057900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outros desperdicios comestiveis de peixes defumados, mesmo em files, exceto dos codigos 0305.41.00, 0305.42.00 e 0305.49.10",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.64,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "03057900",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Outros desperdicios comestiveis de peixes salgados, nao secos nem defumados e peixes em salmoura, exceto dos codigos 0305.61.00 e 0305.62.00",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.64,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

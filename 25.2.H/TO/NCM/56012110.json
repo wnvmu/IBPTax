@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "56012110",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Pastas (\u0093ouates\u0094) de materias texteis e artigos destas pastas (ouates), fibras texteis de comprimento nao superior a 5mm (\u0093tontisses\u0094), nos e bolotas de materias texteis.",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 19.98,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

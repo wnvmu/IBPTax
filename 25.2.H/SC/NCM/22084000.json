@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "22084000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Bebidas liquidos alcoolicos e vinagres alcool etilico nao desnaturado com um teor alcoolico em volume inferior a 80 vol aguardentes licores e outras bebidas espirituosas Rum e outras aguardentes provenientes da destilacao apos fermentacao de produtos da cana de acucar",
+    "ALIQ_FED_NAC": 21.82,
+    "ALIQ_FED_IMP": 32.95,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "22084000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Rum e outras aguardentes obtidas do melaco da cana",
+    "ALIQ_FED_NAC": 23.22,
+    "ALIQ_FED_IMP": 34.35,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

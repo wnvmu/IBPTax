@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "15219019",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Gorduras e oleos animais ou vegetais produtos da sua dissociacao gorduras alimenticias elaboradas ceras de origem animal ou vegetal ceras vegetais exceto os trigliceridos ceras de abelha ou de outros insetos e espermacete mesmo refinados ou corados outras",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 16.78,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "15219019",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Outros ceras de abelha, refinadas, branqueadas ou coloridas artificialmente",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 16.78,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

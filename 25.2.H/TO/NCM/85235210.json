@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "85235210",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Cartoes e etiquetas de acionamento por aproximacao",
+  "ALIQ_FED_NAC": 19.00,
+  "ALIQ_FED_IMP": 29.87,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "39204900",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outschapas,etc.de polim.cloreto vinila",
+    "ALIQ_FED_NAC": 18.96,
+    "ALIQ_FED_IMP": 28.76,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "39204900",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Laminados rigidos de policloreto de vinil PVc utilizados para revestimento de moveis",
+    "ALIQ_FED_NAC": 15.40,
+    "ALIQ_FED_IMP": 25.20,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

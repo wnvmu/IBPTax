@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "88010000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Baloes e dirigiveis, planadores, asas voadoras e outros veiculos aereos, nao concebidos para propulsao com motor.",
+  "ALIQ_FED_NAC": 17.10,
+  "ALIQ_FED_IMP": 19.10,
+  "ALIQ_ESTADUAL": 25.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

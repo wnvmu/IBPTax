@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84151011",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Apars.de ar-condicionado do tipo split system (sistema c/ elementos separados), c<=30000f/h, p/paredes/janelas",
+    "ALIQ_FED_NAC": 21.07,
+    "ALIQ_FED_IMP": 29.44,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84151011",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Com capacidade inferior a 7.500 frigorias/hora",
+    "ALIQ_FED_NAC": 25.30,
+    "ALIQ_FED_IMP": 33.67,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "90221991",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Outs.apars.de raios x,radiofotografia ou radioterapia dos tipos utilizados para inspecao de bagagens, com tunel de altura inferior ou igual a 0,4m, largura inferior ou igual a 0,6m e comprimento inferior ou igual a 1,2m",
+  "ALIQ_FED_NAC": 14.89,
+  "ALIQ_FED_IMP": 22.00,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

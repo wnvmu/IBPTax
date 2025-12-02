@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "1508",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Emissao, reemissao, alteracao, cessao, substituicao, cancelamento e registro de contrato de credito, estudo, analise e avaliacao de operacoes de credito, emissao, concessao, alteracao ou contratacao de aval, fianca, anuencia e congeneres, servicos relativos a abertura de credito, para quaisquer fins.",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 0.00,
+  "ALIQ_MUNICIPAL": 4.76,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

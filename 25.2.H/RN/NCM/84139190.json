@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "84139190",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outras partes de bombas",
+    "ALIQ_FED_NAC": 15.14,
+    "ALIQ_FED_IMP": 23.15,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "84139190",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De bombas injetoras em linha, com elementos de injecao de diametro igual ou superior a 9,5 mm, para motores de ignicao por compressao de potencia igual ou superior a 125HP, proprios para onibus ou caminhoes",
+    "ALIQ_FED_NAC": 14.81,
+    "ALIQ_FED_IMP": 22.82,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

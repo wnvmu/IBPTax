@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "38229000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Produtos diversos das industrias quimicas Reagentes de diagnostico ou de laboratorio em qualquer suporte e reagentes de diagnostico ou de laboratorio preparados mesmo num suporte mesmo apresentados sob a forma de estojos exceto os da posicao 30 06 materia",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 27.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

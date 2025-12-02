@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85299020",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Outs.partes p/apars.recept.radiodifusao, televisao,etc.",
+    "ALIQ_FED_NAC": 15.42,
+    "ALIQ_FED_IMP": 20.17,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85299020",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Pecas plasticas moldadas por injecao",
+    "ALIQ_FED_NAC": 16.02,
+    "ALIQ_FED_IMP": 20.77,
+    "ALIQ_ESTADUAL": 12.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "30049068",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Medicamento c/altretamina, bortezomib, dacarbazina, disoproxilfumarato de tenofovir, enfuvirtida, fluspirileno, letrozol, lopinavir, mesilato de imatinib, nelfinavir ou seu mesilato, nevirapine, pemetrexed, saquinavir, sulfato de abacavir, sulfato de ataz",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 15.45,
+  "ALIQ_ESTADUAL": 23.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

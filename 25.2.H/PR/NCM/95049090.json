@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "95049090",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Brinquedos jogos artigos para divertimento ou para esporte suas partes e acessorios consoles e maquinas de jogos de video artigos para jogos de salao incluindo os jogos com motor ou outro mecanismo os bilhares as mesas especiais para jogos de cassino e os jogos de balizas pinos automaticos boliche outros",
+    "ALIQ_FED_NAC": 17.63,
+    "ALIQ_FED_IMP": 25.17,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "95049090",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Dados e copos para dados",
+    "ALIQ_FED_NAC": 20.94,
+    "ALIQ_FED_IMP": 28.48,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "95049090",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Ficha, marca escore ou tento",
+    "ALIQ_FED_NAC": 20.94,
+    "ALIQ_FED_IMP": 28.48,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

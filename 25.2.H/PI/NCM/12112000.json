@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "12112000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Sementes e frutos oleaginosos graos sementes e frutos diversos plantas industriais ou medicinais palhas e forragens Plantas partes de plantas sementes e frutos das especies utilizadas principalmente em perfumaria medicina ou como inseticidas parasiticidas e semelhantes frescos refrigerados congelados ou secos mesmo cortados triturados ou em po Raizes de ginseng",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.44,
+    "ALIQ_ESTADUAL": 22.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "12112000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Raizes de ginseng, secas",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 19.44,
+    "ALIQ_ESTADUAL": 22.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

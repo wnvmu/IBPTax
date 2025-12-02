@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "30069300",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Produtos farmaceuticos Preparacoes e artigos farmaceuticos indicados na nota 4 deste capitulo Placebos e estojos para ensaios clinicos cegos ou duplo cegos destinados a um ensaio clinico reconhecido apresentados em doses",
+  "ALIQ_FED_NAC": 13.45,
+  "ALIQ_FED_IMP": 16.53,
+  "ALIQ_ESTADUAL": 19.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

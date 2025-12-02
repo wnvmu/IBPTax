@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85392110",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Lampadas/tubos incandesc.halogenos,de tungstenio,t<=15v",
+    "ALIQ_FED_NAC": 17.00,
+    "ALIQ_FED_IMP": 25.10,
+    "ALIQ_ESTADUAL": 22.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85392110",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Lampadas dicroicas",
+    "ALIQ_FED_NAC": 18.05,
+    "ALIQ_FED_IMP": 26.15,
+    "ALIQ_ESTADUAL": 22.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

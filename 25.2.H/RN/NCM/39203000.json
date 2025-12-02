@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "39203000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Chapas,etc.de polimeros estireno,s/suporte, n/reforc.etc",
+    "ALIQ_FED_NAC": 20.46,
+    "ALIQ_FED_IMP": 29.87,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "39203000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De polimeros de estireno",
+    "ALIQ_FED_NAC": 15.14,
+    "ALIQ_FED_IMP": 24.55,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

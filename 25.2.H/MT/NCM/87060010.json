@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "87060010",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Veiculos automoveis tratores ciclos e outros veiculos terrestres suas partes e acessorios Dos veiculos da posicao 87 02",
+    "ALIQ_FED_NAC": 20.38,
+    "ALIQ_FED_IMP": 29.95,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "87060010",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De veiculos dos ex 01 e 02 dos codigos 8702.10.00 e 8702.90.90",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 23.02,
+    "ALIQ_ESTADUAL": 17.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "CODIGO": "85235110",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Dispositivos de armazenamento nao-volatil de dados a base de semicondutores - cartoes de memoris (memory cards)",
+    "ALIQ_FED_NAC": 15.94,
+    "ALIQ_FED_IMP": 21.12,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85235110",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Das maquinas da posicao 84.71",
+    "ALIQ_FED_NAC": 15.16,
+    "ALIQ_FED_IMP": 20.34,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85235110",
+    "EXCECAO_FISCAL": "02",
+    "DESCRICAO": "Que possam ser utilizados indiferentemente com as maquinas ou aparelhos de duas ou mais das posicoes 84.69 a 84.72",
+    "ALIQ_FED_NAC": 13.81,
+    "ALIQ_FED_IMP": 18.99,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

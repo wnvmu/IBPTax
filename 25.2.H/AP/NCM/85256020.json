@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85256020",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Apars.transm/recep.de televisao, frequencia>7ghz",
+    "ALIQ_FED_NAC": 18.54,
+    "ALIQ_FED_IMP": 20.54,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85256020",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Transmissores-receptores transceptores de sinal de televisao digital atraves de fibra otica",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 15.45,
+    "ALIQ_ESTADUAL": 18.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

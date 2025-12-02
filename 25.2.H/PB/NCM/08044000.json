@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "08044000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Abacates frescos ou secos",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 17.92,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "08044000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Abacates, secos e acondicionados em embalagens de apresentacao",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 17.92,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

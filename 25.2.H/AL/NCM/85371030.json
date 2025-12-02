@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "85371030",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Quadros c/apars.control.demanda de energia eletr.t<=1kv",
+  "ALIQ_FED_NAC": 15.94,
+  "ALIQ_FED_IMP": 21.08,
+  "ALIQ_ESTADUAL": 20.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

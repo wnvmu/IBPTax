@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "73219000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Obras de ferro fundido ferro ou aco aquecedores de ambiente Fogoes de sala caldeiras de fornalha fogoes de cozinha incluindo os que possam ser utilizados acessoriamente no aquecimento central churrasqueiras grelhadores braseiras fogareiros a gas aquecedores de pratos e aparelhos nao eletricos semelhantes de uso domestico e suas partes de ferro fundido ferro ou aco Partes",
+    "ALIQ_FED_NAC": 15.16,
+    "ALIQ_FED_IMP": 21.07,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "73219000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "De fogoes de cozinha",
+    "ALIQ_FED_NAC": 14.16,
+    "ALIQ_FED_IMP": 20.07,
+    "ALIQ_ESTADUAL": 20.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

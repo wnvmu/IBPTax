@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85299019",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Maquinas aparelhos e materiais eletricos e suas partes aparelhos de gravacao ou de reproducao de som aparelhos de gravacao ou de reproducao de imagens e de som em televisao e suas partes e acessorios Partes reconheciveis como exclusiva ou principalmente destinadas aos aparelhos das posicoes 85 25 a 85 28 outras",
+    "ALIQ_FED_NAC": 16.58,
+    "ALIQ_FED_IMP": 22.02,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85299019",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Codificadores para sinais de audio, video de alta definicao MPeG-2 e/ou MPeG-4 protocolo H.264 para sistema de transmissao de sinais de televisao digital terrestre",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 18.89,
+    "ALIQ_ESTADUAL": 25.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

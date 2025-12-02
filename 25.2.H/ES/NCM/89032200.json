@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "89032200",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Embarcacoes e estruturas flutuantes iates e outros barcos e embarcacoes de recreio ou de esporte barcos a remos e canoas De comprimento superior a 7 5 m mas nao superior a 24 m",
+  "ALIQ_FED_NAC": 16.58,
+  "ALIQ_FED_IMP": 18.58,
+  "ALIQ_ESTADUAL": 25.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

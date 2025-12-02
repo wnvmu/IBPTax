@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "85437036",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Roteador-comutador (routing switcher) de mais de 20 entradas e mais de 16 saidas, de audio ou de video",
+    "ALIQ_FED_NAC": 15.67,
+    "ALIQ_FED_IMP": 17.67,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "85437036",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Roteadores-comutadores \u0093trouting switcher\u0094 , contendo mais de 20 entradas e mais de 16 saidas de audio e/ou video, com interface de entrada de video SDi e HD-SDi e saidas em SDi e HD-SDi, entradas de audio analogico e/ou digital ou capacidade par",
+    "ALIQ_FED_NAC": 13.45,
+    "ALIQ_FED_IMP": 15.45,
+    "ALIQ_ESTADUAL": 19.50,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]

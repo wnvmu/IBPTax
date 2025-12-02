@@ -1,0 +1,12 @@
+﻿{
+  "CODIGO": "48132000",
+  "EXCECAO_FISCAL": null,
+  "DESCRICAO": "Papel para cigarros,em rolos de largura<=5cm",
+  "ALIQ_FED_NAC": 24.58,
+  "ALIQ_FED_IMP": 31.37,
+  "ALIQ_ESTADUAL": 17.00,
+  "ALIQ_MUNICIPAL": 0.00,
+  "DT_INICIO_VIG": "2025-11-20",
+  "DT_FIM_VIG": "2026-01-31",
+  "FONTE": "IBPT/empresometro.com.br"
+}

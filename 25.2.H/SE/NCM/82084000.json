@@ -1,0 +1,26 @@
+﻿[
+  {
+    "CODIGO": "82084000",
+    "EXCECAO_FISCAL": null,
+    "DESCRICAO": "Facas/laminas cort.de met.comuns,p/maqs. agricultura,etc",
+    "ALIQ_FED_NAC": 15.22,
+    "ALIQ_FED_IMP": 22.16,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  },
+  {
+    "CODIGO": "82084000",
+    "EXCECAO_FISCAL": "01",
+    "DESCRICAO": "Navalhas triangulares faquinhas serrilhadas de uso em colheitadeiras agricolas",
+    "ALIQ_FED_NAC": 14.36,
+    "ALIQ_FED_IMP": 21.30,
+    "ALIQ_ESTADUAL": 19.00,
+    "ALIQ_MUNICIPAL": 0.00,
+    "DT_INICIO_VIG": "2025-11-20",
+    "DT_FIM_VIG": "2026-01-31",
+    "FONTE": "IBPT/empresometro.com.br"
+  }
+]
